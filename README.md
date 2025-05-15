@@ -94,7 +94,8 @@ Role-based access is implemented to ensure department-specific visibility.
 
 ## 📹 Walkthrough
 
-A short [screen recording](Dashboard.recordingmp4.mp4) demonstrates key dashboard features, tooltips, buttons, drillthroughs, and RLS simulation.
+A short [screen recording](https://drive.google.com/file/d/1iS848qV88tKRu5bnePINomX3CJxkk1pG/view) demonstrates key dashboard features, tooltips, buttons, drillthroughs, and RLS simulation.
+
 
 ---
 
