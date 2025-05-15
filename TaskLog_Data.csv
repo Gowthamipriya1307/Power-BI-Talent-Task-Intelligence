@@ -1,0 +1,2001 @@
+TaskID,EmployeeNumber,TaskType,RequestDate,ResolvedDate,SLA_Hours,Actual_Hours,Status,Priority
+T942228,1746,Policy Query,2024-05-04,2024-05-05,24,42,Completed,Low
+T355762,1865,Onboarding,2024-01-11,2024-01-12,24,32,Completed,High
+T254836,1858,Exit Interview,2024-06-13,2024-06-13,24,16,In Progress,Low
+T680880,1794,Policy Query,2024-03-04,2024-03-05,24,38,In Progress,Low
+T793900,734,Exit Interview,2024-08-08,2024-08-08,24,18,In Progress,Low
+T637382,470,Leave Request,2024-04-23,2024-04-26,72,90,In Progress,High
+T727467,1499,Exit Interview,2024-04-23,2024-04-23,24,17,In Progress,Low
+T930975,1818,Exit Interview,2024-03-24,2024-03-24,24,16,In Progress,High
+T647269,665,Exit Interview,2024-06-02,2024-06-02,24,15,In Progress,Medium
+T736799,1049,Leave Request,2024-04-01,2024-04-01,24,15,In Progress,High
+T381983,1794,Exit Interview,2024-09-07,2024-09-09,48,61,Escalated,Low
+T996607,1625,Onboarding,2024-05-14,2024-05-16,48,56,In Progress,Medium
+T207339,847,Exit Interview,2024-03-12,2024-03-12,24,23,In Progress,Medium
+T390680,910,Leave Request,2024-09-18,2024-09-19,24,39,Completed,Medium
+T210406,1844,Onboarding,2024-03-19,2024-03-19,24,20,Completed,Low
+T854346,1049,Exit Interview,2024-07-22,2024-07-23,24,44,In Progress,High
+T336391,847,Exit Interview,2024-06-07,2024-06-09,72,64,Completed,Medium
+T321717,1642,Policy Query,2024-10-15,2024-10-18,72,90,Completed,Medium
+T867592,1563,Policy Query,2024-01-13,2024-01-16,72,77,Completed,Medium
+T268408,1746,Exit Interview,2024-07-04,2024-07-05,24,39,In Progress,Low
+T958094,1314,Leave Request,2024-10-12,2024-10-14,72,64,In Progress,Low
+T154485,1461,Policy Query,2024-11-16,2024-11-16,24,20,In Progress,Medium
+T533619,140,Onboarding,2024-01-25,2024-01-27,72,65,Completed,Medium
+T153995,1563,Policy Query,2024-06-05,2024-06-07,72,62,Completed,High
+T726641,829,Onboarding,2024-01-02,2024-01-04,72,69,In Progress,Low
+T416444,1642,Leave Request,2024-10-07,2024-10-09,48,48,In Progress,Medium
+T133523,1973,Leave Request,2024-01-08,2024-01-10,48,68,In Progress,Medium
+T588981,909,Onboarding,2024-08-03,2024-08-04,24,30,Completed,Low
+T373014,644,Onboarding,2024-01-08,2024-01-08,24,22,In Progress,Medium
+T990753,1289,Leave Request,2024-09-08,2024-09-11,72,90,In Progress,High
+T360226,1858,Leave Request,2024-01-12,2024-01-12,24,20,In Progress,Medium
+T756981,1805,Exit Interview,2024-09-18,2024-09-20,48,65,In Progress,Medium
+T694116,1746,Leave Request,2024-02-23,2024-02-23,24,19,Completed,High
+T938590,1625,Policy Query,2024-09-07,2024-09-09,48,52,In Progress,Low
+T375940,1352,Onboarding,2024-12-12,2024-12-13,24,34,Escalated,Low
+T551449,1744,Leave Request,2024-11-25,2024-11-26,48,40,Completed,Medium
+T933460,140,Leave Request,2024-09-17,2024-09-17,24,23,Completed,Low
+T924202,1550,Exit Interview,2024-07-03,2024-07-05,48,56,In Progress,Low
+T734783,1944,Exit Interview,2024-05-24,2024-05-25,48,44,In Progress,Medium
+T370204,103,Onboarding,2024-09-26,2024-09-26,24,17,Completed,Medium
+T209304,1289,Leave Request,2024-05-25,2024-05-27,48,48,In Progress,High
+T436729,177,Exit Interview,2024-06-25,2024-06-26,24,43,Escalated,Low
+T316858,608,Onboarding,2024-06-21,2024-06-24,72,89,In Progress,Low
+T540670,1865,Exit Interview,2024-08-07,2024-08-07,24,16,Completed,Low
+T198411,1499,Policy Query,2024-10-15,2024-10-16,48,40,Escalated,Medium
+T877829,1314,Onboarding,2024-04-20,2024-04-23,72,78,In Progress,High
+T362352,1207,Leave Request,2024-03-10,2024-03-13,72,92,Completed,Low
+T295705,321,Onboarding,2024-01-06,2024-01-08,72,69,Completed,High
+T268107,1778,Exit Interview,2024-01-13,2024-01-14,24,28,Escalated,Low
+T737708,424,Exit Interview,2024-07-28,2024-07-30,48,50,In Progress,Low
+T245562,1972,Policy Query,2024-06-03,2024-06-05,48,54,Completed,Medium
+T278464,1207,Onboarding,2024-06-10,2024-06-11,48,44,In Progress,Low
+T780556,869,Exit Interview,2024-02-16,2024-02-18,72,62,In Progress,Low
+T592103,869,Policy Query,2024-02-19,2024-02-20,24,28,In Progress,Medium
+T484282,1842,Exit Interview,2024-02-10,2024-02-12,48,56,In Progress,Low
+T114904,734,Leave Request,2024-07-02,2024-07-03,48,38,In Progress,Medium
+T657985,829,Onboarding,2024-07-28,2024-07-30,72,68,Escalated,Low
+T137876,1499,Onboarding,2024-06-14,2024-06-16,48,58,In Progress,Low
+T580389,1805,Exit Interview,2024-07-20,2024-07-21,24,42,In Progress,Medium
+T426255,1944,Onboarding,2024-04-22,2024-04-24,48,60,In Progress,Medium
+T605957,869,Exit Interview,2024-12-26,2024-12-29,72,75,In Progress,Low
+T930827,1314,Leave Request,2024-04-22,2024-04-24,48,58,Completed,Low
+T546292,177,Exit Interview,2024-05-07,2024-05-08,24,42,Escalated,Low
+T874099,1289,Leave Request,2024-09-14,2024-09-14,24,18,Escalated,Low
+T804927,1550,Exit Interview,2024-03-20,2024-03-22,48,55,In Progress,Low
+T284994,470,Policy Query,2024-08-03,2024-08-04,24,29,In Progress,Low
+T581860,148,Policy Query,2024-08-18,2024-08-21,72,85,In Progress,Medium
+T646596,869,Leave Request,2024-06-06,2024-06-08,48,52,Completed,Low
+T565938,1805,Onboarding,2024-06-13,2024-06-15,48,57,Completed,Low
+T742473,1467,Policy Query,2024-05-10,2024-05-11,24,24,In Progress,Medium
+T805946,424,Leave Request,2024-01-14,2024-01-15,24,24,In Progress,Medium
+T216913,1338,Onboarding,2024-12-14,2024-12-15,24,31,In Progress,Medium
+T207610,424,Exit Interview,2024-07-02,2024-07-04,48,63,Escalated,Medium
+T446088,1563,Leave Request,2024-08-28,2024-08-30,48,63,In Progress,High
+T618554,1865,Exit Interview,2024-10-23,2024-10-24,24,40,Escalated,Medium
+T915724,1747,Leave Request,2024-08-02,2024-08-03,48,44,In Progress,Low
+T340044,1746,Policy Query,2024-03-10,2024-03-11,48,41,Completed,Low
+T677597,133,Exit Interview,2024-09-11,2024-09-14,72,72,Escalated,High
+T873554,608,Policy Query,2024-12-08,2024-12-10,72,70,Escalated,Low
+T937170,1563,Onboarding,2024-01-02,2024-01-03,24,28,In Progress,Medium
+T776323,1550,Leave Request,2024-12-26,2024-12-26,24,21,In Progress,High
+T668301,133,Policy Query,2024-09-09,2024-09-11,48,61,In Progress,High
+T962732,1563,Policy Query,2024-09-11,2024-09-13,72,68,In Progress,High
+T650985,1314,Exit Interview,2024-08-21,2024-08-22,24,29,In Progress,High
+T702060,1098,Leave Request,2024-05-24,2024-05-27,72,77,In Progress,Low
+T829537,1865,Leave Request,2024-08-12,2024-08-14,72,62,In Progress,Medium
+T871005,1858,Leave Request,2024-04-20,2024-04-22,72,62,Completed,High
+T975165,1563,Policy Query,2024-10-21,2024-10-22,24,32,Escalated,Low
+T653718,1563,Exit Interview,2024-02-27,2024-02-28,48,39,In Progress,High
+T606052,1858,Exit Interview,2024-08-14,2024-08-17,72,84,Completed,Medium
+T484963,1338,Onboarding,2024-09-06,2024-09-09,72,90,In Progress,High
+T686082,1049,Exit Interview,2024-07-28,2024-07-29,48,38,Escalated,Medium
+T845504,177,Leave Request,2024-03-04,2024-03-05,24,44,Escalated,High
+T874136,1152,Policy Query,2024-03-11,2024-03-13,48,56,Completed,High
+T793126,566,Exit Interview,2024-09-09,2024-09-12,72,78,In Progress,Low
+T707987,1987,Exit Interview,2024-11-28,2024-11-29,48,42,Escalated,Low
+T891854,1164,Onboarding,2024-01-11,2024-01-11,24,15,In Progress,High
+T271217,1419,Onboarding,2024-04-19,2024-04-20,24,33,In Progress,Medium
+T553849,1722,Onboarding,2024-01-07,2024-01-07,24,15,Escalated,Low
+T914054,1778,Onboarding,2024-08-15,2024-08-17,72,64,In Progress,Low
+T800372,1642,Onboarding,2024-08-28,2024-08-31,72,92,Escalated,Low
+T660582,760,Leave Request,2024-09-25,2024-09-27,48,49,In Progress,Low
+T341274,470,Leave Request,2024-11-04,2024-11-05,24,35,Completed,Low
+T575037,1289,Leave Request,2024-09-07,2024-09-09,72,64,Completed,Low
+T140489,1987,Exit Interview,2024-10-12,2024-10-15,72,79,Escalated,Low
+T264238,1563,Onboarding,2024-05-27,2024-05-27,24,19,Escalated,Medium
+T441677,1683,Policy Query,2024-07-10,2024-07-12,48,53,In Progress,Medium
+T417134,1794,Onboarding,2024-10-15,2024-10-18,72,78,In Progress,Low
+T132742,1289,Onboarding,2024-09-09,2024-09-10,24,36,In Progress,Low
+T522707,1207,Exit Interview,2024-01-15,2024-01-18,72,91,In Progress,Medium
+T879613,177,Exit Interview,2024-09-20,2024-09-22,48,50,In Progress,High
+T250723,1842,Onboarding,2024-04-22,2024-04-24,48,60,Escalated,Low
+T360800,1747,Onboarding,2024-12-25,2024-12-26,24,24,In Progress,Medium
+T981707,566,Exit Interview,2024-01-12,2024-01-15,72,84,In Progress,Low
+T610210,470,Onboarding,2024-11-10,2024-11-13,72,72,Escalated,Low
+T219824,1778,Exit Interview,2024-11-17,2024-11-18,24,41,In Progress,Low
+T599887,1352,Onboarding,2024-08-11,2024-08-12,48,38,In Progress,High
+T747505,847,Leave Request,2024-01-12,2024-01-14,72,69,Completed,Medium
+T126837,1338,Leave Request,2024-02-15,2024-02-17,48,60,In Progress,Low
+T308133,566,Policy Query,2024-06-22,2024-06-25,72,78,In Progress,Low
+T581081,1164,Leave Request,2024-12-26,2024-12-27,24,34,In Progress,High
+T620042,321,Onboarding,2024-02-03,2024-02-05,48,57,In Progress,Low
+T327869,1467,Onboarding,2024-09-14,2024-09-17,72,81,In Progress,High
+T325904,1683,Policy Query,2024-04-11,2024-04-12,24,44,In Progress,High
+T309622,1714,Policy Query,2024-07-18,2024-07-18,24,23,Completed,Low
+T318671,1207,Exit Interview,2024-01-08,2024-01-09,48,46,In Progress,Low
+T861903,644,Leave Request,2024-06-23,2024-06-26,72,80,In Progress,Low
+T385478,148,Onboarding,2024-07-05,2024-07-06,48,43,Completed,Medium
+T115606,665,Onboarding,2024-02-27,2024-02-28,24,44,In Progress,Low
+T251070,608,Leave Request,2024-07-25,2024-07-27,48,55,Escalated,Medium
+T664589,1152,Policy Query,2024-07-04,2024-07-06,48,56,In Progress,Medium
+T794619,734,Policy Query,2024-06-10,2024-06-13,72,83,In Progress,Low
+T888998,1461,Policy Query,2024-10-14,2024-10-16,48,59,In Progress,High
+T561434,608,Leave Request,2024-11-26,2024-11-27,48,42,In Progress,Low
+T501187,1625,Leave Request,2024-09-15,2024-09-16,24,32,In Progress,Low
+T631087,1467,Policy Query,2024-05-05,2024-05-08,72,89,In Progress,High
+T895099,847,Exit Interview,2024-08-16,2024-08-16,24,14,Completed,Low
+T704496,1778,Policy Query,2024-10-06,2024-10-08,48,68,In Progress,Low
+T117971,734,Leave Request,2024-02-19,2024-02-20,24,28,In Progress,Low
+T860538,1794,Onboarding,2024-12-24,2024-12-24,24,22,Escalated,Medium
+T311002,1461,Policy Query,2024-11-12,2024-11-12,24,20,In Progress,Low
+T501007,1563,Policy Query,2024-05-22,2024-05-25,72,84,Escalated,Low
+T537748,424,Exit Interview,2024-06-16,2024-06-17,24,41,Completed,Medium
+T208891,734,Leave Request,2024-02-07,2024-02-08,24,43,Escalated,High
+T331342,1098,Onboarding,2024-04-12,2024-04-13,48,42,In Progress,High
+T918888,1747,Policy Query,2024-03-25,2024-03-27,48,61,Completed,Low
+T601982,1944,Policy Query,2024-09-25,2024-09-27,72,64,Escalated,Low
+T198542,1419,Exit Interview,2024-12-12,2024-12-14,72,63,In Progress,Low
+T937416,1625,Policy Query,2024-03-10,2024-03-12,72,68,Escalated,Low
+T795675,1550,Exit Interview,2024-05-19,2024-05-21,48,61,Completed,Low
+T170236,177,Policy Query,2024-04-23,2024-04-26,72,76,Escalated,High
+T427701,1207,Policy Query,2024-09-12,2024-09-15,72,75,Escalated,Medium
+T393722,1207,Onboarding,2024-02-17,2024-02-19,72,65,In Progress,Low
+T569479,665,Policy Query,2024-12-28,2024-12-30,48,52,In Progress,Low
+T837698,590,Onboarding,2024-04-07,2024-04-10,72,87,Escalated,High
+T568865,1467,Onboarding,2024-09-01,2024-09-03,48,68,In Progress,Medium
+T192804,1408,Onboarding,2024-04-07,2024-04-09,48,55,Escalated,High
+T532901,1419,Policy Query,2024-11-01,2024-11-04,72,90,Escalated,Low
+T913467,1844,Onboarding,2024-06-18,2024-06-18,24,17,Escalated,Medium
+T176405,1408,Onboarding,2024-02-10,2024-02-10,24,15,In Progress,Low
+T111839,1778,Exit Interview,2024-11-02,2024-11-04,48,52,In Progress,Medium
+T487846,1289,Exit Interview,2024-07-24,2024-07-27,72,89,In Progress,Low
+T346678,140,Onboarding,2024-02-19,2024-02-20,24,37,In Progress,Medium
+T386096,1972,Leave Request,2024-05-09,2024-05-12,72,76,In Progress,Low
+T591323,1625,Leave Request,2024-03-05,2024-03-06,24,35,In Progress,High
+T947323,1778,Onboarding,2024-12-22,2024-12-24,48,58,Escalated,Low
+T103687,909,Leave Request,2024-05-11,2024-05-14,72,84,In Progress,Medium
+T495736,1550,Exit Interview,2024-04-18,2024-04-19,24,41,Completed,High
+T413418,1744,Leave Request,2024-02-25,2024-02-27,48,57,Escalated,Medium
+T847106,1714,Policy Query,2024-12-25,2024-12-27,72,66,Escalated,High
+T280961,698,Exit Interview,2024-11-20,2024-11-22,48,68,Completed,High
+T958430,1563,Onboarding,2024-02-28,2024-03-01,48,63,In Progress,High
+T866507,1499,Onboarding,2024-01-21,2024-01-23,48,53,In Progress,Medium
+T207842,148,Policy Query,2024-07-04,2024-07-06,48,53,In Progress,Low
+T792930,1844,Leave Request,2024-02-05,2024-02-06,24,32,Escalated,Low
+T753101,1722,Exit Interview,2024-10-11,2024-10-14,72,73,In Progress,Low
+T416956,1805,Policy Query,2024-03-19,2024-03-20,24,41,In Progress,High
+T353463,1642,Onboarding,2024-10-08,2024-10-11,72,79,In Progress,Low
+T104640,1207,Leave Request,2024-05-07,2024-05-09,72,67,In Progress,Low
+T699332,140,Exit Interview,2024-01-07,2024-01-08,48,47,Escalated,Medium
+T459977,1419,Exit Interview,2024-09-04,2024-09-07,72,73,In Progress,High
+T905980,1744,Onboarding,2024-11-09,2024-11-11,48,67,In Progress,Medium
+T401175,1314,Leave Request,2024-07-27,2024-07-28,24,30,Completed,High
+T705969,1164,Policy Query,2024-09-11,2024-09-11,24,16,In Progress,Low
+T796236,1467,Policy Query,2024-12-13,2024-12-15,48,64,In Progress,Low
+T831768,1467,Policy Query,2024-01-27,2024-01-28,24,35,In Progress,Low
+T557522,1805,Onboarding,2024-11-28,2024-11-30,72,67,In Progress,Medium
+T937685,1338,Exit Interview,2024-08-14,2024-08-16,72,71,In Progress,Low
+T617435,424,Exit Interview,2024-09-07,2024-09-09,48,51,In Progress,Low
+T859320,1746,Leave Request,2024-05-18,2024-05-19,24,32,In Progress,Medium
+T527223,1338,Onboarding,2024-09-22,2024-09-22,24,18,In Progress,Low
+T296372,1289,Exit Interview,2024-10-14,2024-10-15,24,33,Completed,Low
+T845116,1944,Exit Interview,2024-02-15,2024-02-18,72,80,Completed,Medium
+T537912,184,Exit Interview,2024-10-18,2024-10-20,48,66,Completed,Low
+T228338,1973,Exit Interview,2024-02-22,2024-02-24,48,60,Escalated,High
+T779153,1207,Exit Interview,2024-10-12,2024-10-14,48,62,Completed,Low
+T914966,590,Exit Interview,2024-04-18,2024-04-20,72,63,Escalated,Low
+T436854,103,Policy Query,2024-09-01,2024-09-02,24,24,In Progress,Medium
+T955300,1747,Exit Interview,2024-07-09,2024-07-12,72,87,In Progress,Medium
+T932456,869,Policy Query,2024-09-06,2024-09-08,48,66,In Progress,Low
+T970123,1973,Onboarding,2024-10-23,2024-10-25,48,67,Completed,Low
+T478001,1805,Onboarding,2024-02-17,2024-02-19,48,62,In Progress,Medium
+T389752,829,Leave Request,2024-06-03,2024-06-04,48,43,In Progress,Medium
+T114060,1794,Leave Request,2024-03-14,2024-03-16,48,48,Completed,High
+T969793,1842,Onboarding,2024-06-06,2024-06-07,24,43,Completed,High
+T260214,878,Leave Request,2024-08-27,2024-08-28,24,38,Completed,Low
+T282875,1098,Policy Query,2024-02-18,2024-02-21,72,75,Escalated,Low
+T982822,470,Exit Interview,2024-09-23,2024-09-26,72,86,Completed,Low
+T126939,909,Policy Query,2024-08-08,2024-08-10,72,62,Completed,Low
+T242792,1419,Policy Query,2024-10-20,2024-10-23,72,83,In Progress,Medium
+T902635,1744,Exit Interview,2024-01-22,2024-01-25,72,74,In Progress,Low
+T624352,644,Leave Request,2024-09-22,2024-09-24,48,48,In Progress,High
+T340716,1207,Exit Interview,2024-10-14,2024-10-14,24,21,In Progress,High
+T840369,148,Exit Interview,2024-11-11,2024-11-13,72,65,In Progress,High
+T842895,1890,Onboarding,2024-06-17,2024-06-19,48,58,Escalated,Medium
+T119176,1744,Policy Query,2024-01-02,2024-01-03,24,44,In Progress,Medium
+T296646,1805,Policy Query,2024-01-13,2024-01-16,72,73,In Progress,Low
+T255072,177,Leave Request,2024-02-18,2024-02-19,48,38,In Progress,Low
+T735284,470,Policy Query,2024-12-07,2024-12-09,72,69,Completed,Medium
+T253119,148,Exit Interview,2024-01-14,2024-01-15,24,29,In Progress,Medium
+T761598,1408,Leave Request,2024-07-10,2024-07-12,48,66,In Progress,Low
+T573771,1818,Policy Query,2024-07-09,2024-07-12,72,76,In Progress,Low
+T894025,140,Exit Interview,2024-09-06,2024-09-06,24,23,Escalated,Low
+T784529,184,Onboarding,2024-12-07,2024-12-07,24,21,In Progress,Medium
+T220395,608,Exit Interview,2024-10-20,2024-10-22,72,68,In Progress,Low
+T997777,1098,Leave Request,2024-10-14,2024-10-15,48,41,In Progress,Medium
+T992609,1842,Leave Request,2024-06-22,2024-06-24,72,67,In Progress,High
+T586784,1778,Policy Query,2024-12-28,2024-12-31,72,72,Escalated,Low
+T139876,1746,Exit Interview,2024-12-22,2024-12-25,72,87,In Progress,Low
+T606090,1746,Policy Query,2024-04-11,2024-04-11,24,16,In Progress,Low
+T318475,760,Policy Query,2024-07-22,2024-07-24,72,71,Escalated,Low
+T242878,910,Onboarding,2024-02-20,2024-02-21,24,32,In Progress,Medium
+T298545,608,Policy Query,2024-02-13,2024-02-15,48,62,In Progress,Low
+T767119,1098,Exit Interview,2024-11-11,2024-11-12,48,40,In Progress,Low
+T686954,1152,Exit Interview,2024-06-13,2024-06-14,24,44,In Progress,Low
+T748679,665,Leave Request,2024-04-04,2024-04-07,72,88,Escalated,Low
+T300906,1818,Onboarding,2024-08-04,2024-08-06,72,65,Escalated,Medium
+T423826,1778,Onboarding,2024-06-18,2024-06-20,72,64,In Progress,Low
+T845570,1746,Policy Query,2024-02-18,2024-02-21,72,81,In Progress,Low
+T935245,1625,Leave Request,2024-11-08,2024-11-11,72,91,Completed,Low
+T669672,1844,Policy Query,2024-07-15,2024-07-18,72,89,Completed,Low
+T216511,1746,Policy Query,2024-06-06,2024-06-08,72,62,In Progress,Low
+T970731,1746,Leave Request,2024-02-19,2024-02-21,72,64,In Progress,Low
+T500457,1987,Leave Request,2024-01-25,2024-01-27,48,59,Completed,High
+T715600,1408,Leave Request,2024-12-27,2024-12-27,24,15,Completed,Medium
+T562229,1842,Onboarding,2024-10-22,2024-10-25,72,75,Completed,Low
+T530808,1844,Exit Interview,2024-12-07,2024-12-08,24,37,Completed,Low
+T223241,731,Policy Query,2024-07-26,2024-07-28,48,64,Completed,Low
+T489377,1972,Onboarding,2024-12-21,2024-12-24,72,74,Escalated,High
+T179850,1794,Exit Interview,2024-10-22,2024-10-24,72,63,Escalated,Low
+T179457,1231,Leave Request,2024-08-12,2024-08-15,72,75,In Progress,Low
+T278149,2040,Exit Interview,2024-06-24,2024-06-26,72,63,Completed,High
+T722007,1231,Onboarding,2024-01-10,2024-01-11,24,37,In Progress,Low
+T406627,1049,Leave Request,2024-07-16,2024-07-19,72,82,Completed,High
+T856105,608,Exit Interview,2024-12-02,2024-12-02,24,21,In Progress,Low
+T964468,1972,Leave Request,2024-05-16,2024-05-18,48,61,In Progress,Low
+T919047,184,Leave Request,2024-08-26,2024-08-28,48,65,In Progress,Low
+T841651,878,Onboarding,2024-11-19,2024-11-19,24,14,In Progress,High
+T118315,590,Onboarding,2024-07-06,2024-07-06,24,23,In Progress,Low
+T611528,590,Onboarding,2024-04-28,2024-04-30,48,55,Escalated,Low
+T435633,1352,Exit Interview,2024-03-22,2024-03-24,72,66,In Progress,High
+T965789,321,Onboarding,2024-11-24,2024-11-26,48,52,Completed,Low
+T218416,1683,Policy Query,2024-02-11,2024-02-14,72,85,In Progress,Low
+T545222,1746,Onboarding,2024-03-21,2024-03-23,72,63,In Progress,Medium
+T190120,2040,Leave Request,2024-11-01,2024-11-03,48,48,In Progress,Low
+T252039,1818,Onboarding,2024-06-13,2024-06-14,24,24,Completed,Low
+T419327,148,Leave Request,2024-08-10,2024-08-10,24,18,In Progress,Low
+T461199,869,Leave Request,2024-06-20,2024-06-21,24,42,In Progress,High
+T469434,1778,Onboarding,2024-02-28,2024-03-02,72,81,Completed,Low
+T111484,869,Exit Interview,2024-06-24,2024-06-26,48,52,In Progress,Low
+T409443,1098,Exit Interview,2024-04-08,2024-04-10,48,62,In Progress,Medium
+T666204,103,Exit Interview,2024-12-03,2024-12-04,24,34,Completed,High
+T514230,1152,Policy Query,2024-08-05,2024-08-06,48,47,In Progress,Low
+T558054,133,Exit Interview,2024-08-07,2024-08-08,48,41,Completed,Low
+T411171,1858,Onboarding,2024-12-08,2024-12-08,24,22,In Progress,Low
+T869947,1818,Policy Query,2024-07-14,2024-07-16,48,49,Completed,Medium
+T269907,1987,Onboarding,2024-09-13,2024-09-15,48,61,In Progress,Low
+T312304,1563,Exit Interview,2024-11-22,2024-11-25,72,79,Completed,High
+T548935,829,Policy Query,2024-11-06,2024-11-08,48,65,In Progress,Medium
+T845349,2040,Exit Interview,2024-04-20,2024-04-22,48,59,Escalated,High
+T412098,1314,Exit Interview,2024-01-01,2024-01-02,48,43,In Progress,Medium
+T111707,1152,Exit Interview,2024-05-05,2024-05-06,24,25,In Progress,Low
+T358951,424,Policy Query,2024-02-20,2024-02-23,72,74,In Progress,High
+T932937,1550,Exit Interview,2024-06-16,2024-06-19,72,73,Escalated,Low
+T700000,1794,Leave Request,2024-03-04,2024-03-05,24,40,In Progress,Medium
+T589430,910,Leave Request,2024-03-02,2024-03-02,24,17,Escalated,High
+T499570,1164,Policy Query,2024-07-04,2024-07-06,72,65,Escalated,Low
+T612606,321,Leave Request,2024-12-23,2024-12-25,48,54,In Progress,High
+T607602,665,Policy Query,2024-01-26,2024-01-28,72,68,In Progress,High
+T121542,103,Exit Interview,2024-02-20,2024-02-23,72,87,In Progress,Low
+T841160,1499,Onboarding,2024-01-23,2024-01-25,48,48,Completed,Medium
+T978500,1049,Onboarding,2024-11-01,2024-11-01,24,14,In Progress,High
+T345922,1714,Policy Query,2024-12-14,2024-12-17,72,88,Escalated,Medium
+T409538,1987,Leave Request,2024-03-24,2024-03-26,48,56,In Progress,Low
+T451877,731,Policy Query,2024-08-26,2024-08-28,48,62,In Progress,Medium
+T912923,103,Onboarding,2024-01-20,2024-01-23,72,79,In Progress,Low
+T311511,1164,Leave Request,2024-10-18,2024-10-21,72,73,In Progress,Medium
+T957998,1683,Onboarding,2024-06-02,2024-06-04,48,60,Completed,High
+T998120,1314,Policy Query,2024-07-25,2024-07-26,24,31,In Progress,Low
+T950138,734,Onboarding,2024-03-03,2024-03-06,72,72,In Progress,Medium
+T302690,140,Onboarding,2024-03-19,2024-03-20,24,39,Escalated,Medium
+T132072,148,Onboarding,2024-12-03,2024-12-03,24,19,Completed,High
+T567738,1467,Onboarding,2024-12-15,2024-12-16,24,35,In Progress,High
+T921616,1890,Onboarding,2024-11-07,2024-11-09,48,50,In Progress,Low
+T979636,1419,Onboarding,2024-10-22,2024-10-24,48,54,In Progress,High
+T537712,1289,Leave Request,2024-08-13,2024-08-14,24,33,Completed,Low
+T191951,1049,Policy Query,2024-04-09,2024-04-10,24,27,In Progress,Low
+T689188,133,Onboarding,2024-01-13,2024-01-14,24,30,In Progress,Medium
+T864151,734,Exit Interview,2024-07-07,2024-07-08,48,42,Escalated,Low
+T231897,1858,Policy Query,2024-03-26,2024-03-27,24,39,In Progress,Medium
+T980702,133,Exit Interview,2024-05-22,2024-05-22,24,22,Completed,Medium
+T320190,1550,Onboarding,2024-03-02,2024-03-04,48,62,Escalated,High
+T770952,1973,Leave Request,2024-08-15,2024-08-17,48,51,Completed,Low
+T845933,321,Policy Query,2024-10-05,2024-10-08,72,87,In Progress,Medium
+T212610,608,Policy Query,2024-06-01,2024-06-02,24,38,Completed,Medium
+T334964,566,Policy Query,2024-11-10,2024-11-10,24,21,In Progress,Medium
+T779351,1563,Policy Query,2024-12-19,2024-12-20,24,35,Completed,Medium
+T121163,878,Leave Request,2024-01-02,2024-01-05,72,78,In Progress,High
+T649928,847,Exit Interview,2024-02-14,2024-02-15,24,35,Escalated,High
+T403329,760,Policy Query,2024-11-04,2024-11-06,48,49,Escalated,Low
+T509543,1805,Policy Query,2024-12-16,2024-12-18,48,52,Escalated,Medium
+T508953,184,Onboarding,2024-07-03,2024-07-04,24,41,In Progress,Low
+T208231,910,Onboarding,2024-01-28,2024-01-29,48,39,In Progress,Low
+T789680,1467,Policy Query,2024-10-01,2024-10-03,48,50,In Progress,Low
+T859785,608,Exit Interview,2024-10-27,2024-10-28,48,39,In Progress,High
+T942818,847,Leave Request,2024-12-11,2024-12-12,48,40,Escalated,Low
+T675962,1858,Leave Request,2024-10-05,2024-10-07,48,57,In Progress,Low
+T279786,1973,Onboarding,2024-10-05,2024-10-07,72,63,In Progress,Medium
+T833440,470,Onboarding,2024-08-07,2024-08-09,72,65,In Progress,Low
+T545888,1207,Onboarding,2024-11-19,2024-11-21,48,50,In Progress,Low
+T445114,1098,Onboarding,2024-04-13,2024-04-14,24,41,Completed,Medium
+T505846,847,Policy Query,2024-01-17,2024-01-18,24,34,In Progress,High
+T801036,1722,Policy Query,2024-07-15,2024-07-17,48,63,Completed,Low
+T636944,1890,Leave Request,2024-07-04,2024-07-06,72,67,Escalated,Low
+T145771,869,Policy Query,2024-04-04,2024-04-06,72,65,Completed,Low
+T709322,1338,Onboarding,2024-10-22,2024-10-23,24,30,In Progress,High
+T144397,1944,Exit Interview,2024-08-06,2024-08-09,72,78,Escalated,High
+T187821,1499,Exit Interview,2024-04-24,2024-04-26,48,49,Completed,Low
+T792213,1973,Leave Request,2024-04-10,2024-04-12,48,65,In Progress,Medium
+T602814,103,Policy Query,2024-03-21,2024-03-22,48,47,In Progress,Low
+T312552,1944,Onboarding,2024-09-21,2024-09-23,48,55,Completed,Medium
+T656055,1314,Policy Query,2024-12-08,2024-12-08,24,15,In Progress,High
+T978422,1746,Onboarding,2024-08-21,2024-08-24,72,88,In Progress,Medium
+T963357,1818,Exit Interview,2024-09-08,2024-09-08,24,17,In Progress,Medium
+T534933,829,Leave Request,2024-12-08,2024-12-10,72,69,In Progress,High
+T723127,910,Onboarding,2024-02-17,2024-02-20,72,88,Escalated,Medium
+T294850,1098,Policy Query,2024-07-23,2024-07-25,48,51,In Progress,Medium
+T859266,608,Exit Interview,2024-10-26,2024-10-28,48,60,In Progress,Medium
+T481987,1805,Onboarding,2024-07-15,2024-07-16,24,44,In Progress,Medium
+T332522,644,Exit Interview,2024-02-10,2024-02-12,48,48,In Progress,Medium
+T864304,1858,Exit Interview,2024-08-02,2024-08-04,48,63,In Progress,Medium
+T247722,909,Policy Query,2024-06-28,2024-07-01,72,85,In Progress,Low
+T795548,424,Exit Interview,2024-04-23,2024-04-24,24,39,Escalated,Low
+T936671,1338,Onboarding,2024-11-17,2024-11-19,72,70,In Progress,Low
+T853019,1818,Policy Query,2024-08-27,2024-08-27,24,19,In Progress,Low
+T832388,665,Leave Request,2024-11-08,2024-11-09,48,38,In Progress,Medium
+T850953,1408,Leave Request,2024-04-04,2024-04-07,72,91,In Progress,Medium
+T481088,1408,Leave Request,2024-01-06,2024-01-06,24,15,In Progress,High
+T175347,1818,Policy Query,2024-09-13,2024-09-15,48,68,Completed,Low
+T816211,1419,Leave Request,2024-03-06,2024-03-07,48,47,In Progress,High
+T104302,1098,Onboarding,2024-01-14,2024-01-17,72,86,In Progress,Medium
+T474931,1890,Exit Interview,2024-12-15,2024-12-17,48,54,In Progress,Low
+T203307,1972,Onboarding,2024-02-24,2024-02-25,48,40,Completed,Low
+T363712,698,Policy Query,2024-05-21,2024-05-21,24,23,Completed,Low
+T462300,1890,Exit Interview,2024-07-17,2024-07-18,24,24,Completed,Low
+T685176,1164,Onboarding,2024-03-24,2024-03-27,72,80,In Progress,Low
+T255315,1805,Policy Query,2024-09-02,2024-09-05,72,86,In Progress,Low
+T881583,590,Onboarding,2024-05-01,2024-05-04,72,81,In Progress,High
+T588663,1289,Leave Request,2024-05-26,2024-05-27,24,44,Completed,High
+T160283,321,Onboarding,2024-09-16,2024-09-17,48,44,In Progress,Low
+T415028,1858,Exit Interview,2024-04-19,2024-04-21,48,65,In Progress,Low
+T327763,1499,Exit Interview,2024-04-26,2024-04-27,24,43,In Progress,Medium
+T384795,1563,Policy Query,2024-03-04,2024-03-06,48,57,In Progress,Low
+T784726,1805,Leave Request,2024-06-06,2024-06-09,72,80,In Progress,Low
+T703362,321,Onboarding,2024-06-11,2024-06-14,72,73,Completed,Low
+T104396,829,Exit Interview,2024-05-03,2024-05-06,72,88,Completed,Low
+T936902,566,Leave Request,2024-01-22,2024-01-24,48,67,In Progress,High
+T725103,1778,Exit Interview,2024-07-06,2024-07-07,24,44,In Progress,Low
+T135641,1865,Policy Query,2024-04-14,2024-04-15,24,44,In Progress,High
+T797248,1550,Exit Interview,2024-09-08,2024-09-10,48,52,Completed,Medium
+T975859,909,Leave Request,2024-10-25,2024-10-27,72,67,Escalated,High
+T884872,1231,Policy Query,2024-05-12,2024-05-13,24,37,Escalated,Low
+T225264,1973,Policy Query,2024-04-27,2024-04-28,24,26,In Progress,Medium
+T459687,869,Onboarding,2024-12-21,2024-12-23,48,50,In Progress,Low
+T632947,1944,Onboarding,2024-09-08,2024-09-09,48,39,In Progress,Low
+T403191,1207,Leave Request,2024-10-15,2024-10-16,48,40,In Progress,Low
+T470184,1207,Leave Request,2024-10-05,2024-10-07,72,69,In Progress,Medium
+T555025,1338,Policy Query,2024-09-02,2024-09-05,72,86,In Progress,Medium
+T850658,644,Exit Interview,2024-09-02,2024-09-02,24,18,In Progress,Low
+T319882,590,Onboarding,2024-11-15,2024-11-18,72,90,Completed,High
+T349307,1818,Exit Interview,2024-09-08,2024-09-09,24,37,Completed,Medium
+T215537,1625,Leave Request,2024-01-08,2024-01-09,48,41,In Progress,Low
+T386432,1152,Onboarding,2024-12-09,2024-12-09,24,18,In Progress,Medium
+T539425,140,Exit Interview,2024-11-06,2024-11-07,24,25,In Progress,High
+T815525,1844,Policy Query,2024-02-21,2024-02-23,48,48,In Progress,Low
+T321715,1714,Policy Query,2024-09-04,2024-09-06,72,70,In Progress,Low
+T953054,1152,Exit Interview,2024-06-28,2024-06-30,48,52,In Progress,Low
+T410794,1747,Leave Request,2024-08-14,2024-08-14,24,22,Escalated,High
+T633804,1338,Onboarding,2024-09-08,2024-09-11,72,86,In Progress,Medium
+T331416,1642,Policy Query,2024-11-01,2024-11-02,24,34,In Progress,Low
+T239641,1987,Leave Request,2024-07-18,2024-07-21,72,91,In Progress,Medium
+T935472,1625,Onboarding,2024-12-04,2024-12-04,24,18,In Progress,Low
+T707498,1098,Leave Request,2024-06-14,2024-06-15,48,45,In Progress,Medium
+T157196,665,Onboarding,2024-05-28,2024-05-29,24,29,In Progress,Low
+T134416,909,Exit Interview,2024-08-03,2024-08-04,24,41,In Progress,Low
+T190522,878,Exit Interview,2024-07-17,2024-07-20,72,72,Escalated,Medium
+T535581,1858,Policy Query,2024-07-05,2024-07-06,24,32,In Progress,Low
+T596030,1973,Onboarding,2024-03-18,2024-03-20,48,54,In Progress,Medium
+T799911,1289,Policy Query,2024-09-24,2024-09-27,72,89,Completed,High
+T231690,608,Exit Interview,2024-12-14,2024-12-16,72,68,In Progress,High
+T412561,734,Leave Request,2024-12-26,2024-12-29,72,74,In Progress,Low
+T275582,184,Exit Interview,2024-08-24,2024-08-24,24,17,In Progress,Low
+T917465,1890,Leave Request,2024-02-24,2024-02-25,24,24,In Progress,Low
+T467972,665,Onboarding,2024-09-20,2024-09-21,24,42,In Progress,Low
+T577933,760,Exit Interview,2024-05-04,2024-05-06,72,62,Completed,Low
+T510957,2040,Leave Request,2024-12-05,2024-12-07,48,52,Escalated,High
+T130769,1805,Leave Request,2024-07-12,2024-07-13,48,40,Completed,Low
+T549601,1842,Leave Request,2024-04-24,2024-04-26,72,63,In Progress,High
+T323025,1794,Exit Interview,2024-08-22,2024-08-23,24,29,Escalated,Low
+T392240,1890,Exit Interview,2024-01-03,2024-01-04,48,42,In Progress,High
+T327491,590,Policy Query,2024-09-22,2024-09-24,48,62,Escalated,Low
+T663225,1858,Policy Query,2024-10-01,2024-10-02,48,45,Completed,Medium
+T301442,1805,Onboarding,2024-12-25,2024-12-26,24,26,Escalated,Low
+T704443,760,Leave Request,2024-11-24,2024-11-25,48,39,Completed,Low
+T384155,829,Policy Query,2024-02-22,2024-02-24,48,52,In Progress,Low
+T416565,1207,Policy Query,2024-09-28,2024-09-29,48,42,Escalated,Low
+T730105,1625,Exit Interview,2024-02-25,2024-02-28,72,82,Escalated,High
+T294330,1890,Exit Interview,2024-05-14,2024-05-14,24,19,In Progress,High
+T243337,1844,Exit Interview,2024-03-18,2024-03-19,48,41,In Progress,Medium
+T292614,140,Exit Interview,2024-06-20,2024-06-23,72,85,Escalated,Low
+T519930,1419,Leave Request,2024-11-18,2024-11-20,48,55,In Progress,Low
+T363494,1642,Exit Interview,2024-12-26,2024-12-27,48,40,In Progress,Low
+T918594,177,Policy Query,2024-10-18,2024-10-18,24,17,Escalated,Low
+T292447,1858,Policy Query,2024-09-27,2024-09-28,48,45,Completed,Medium
+T419394,1289,Exit Interview,2024-06-03,2024-06-06,72,88,Completed,Low
+T935069,1744,Onboarding,2024-09-10,2024-09-12,48,59,Completed,Low
+T352603,1858,Exit Interview,2024-07-12,2024-07-14,48,55,Completed,Low
+T372286,1499,Onboarding,2024-05-28,2024-05-31,72,77,In Progress,Low
+T440393,1818,Exit Interview,2024-06-02,2024-06-03,24,35,In Progress,Low
+T347638,1152,Exit Interview,2024-09-07,2024-09-08,24,33,Completed,Low
+T536331,424,Policy Query,2024-10-17,2024-10-18,24,27,In Progress,High
+T164671,760,Policy Query,2024-03-22,2024-03-25,72,78,Completed,High
+T950370,1563,Leave Request,2024-11-04,2024-11-07,72,75,In Progress,Medium
+T393149,1858,Leave Request,2024-04-15,2024-04-15,24,16,Completed,High
+T926248,1152,Onboarding,2024-03-09,2024-03-10,24,25,In Progress,Low
+T974709,1844,Onboarding,2024-09-17,2024-09-18,24,27,Completed,High
+T224266,1842,Onboarding,2024-03-15,2024-03-17,72,63,In Progress,Medium
+T784704,1890,Leave Request,2024-09-23,2024-09-25,72,68,Escalated,Low
+T962458,1231,Policy Query,2024-02-01,2024-02-03,48,56,In Progress,Low
+T771065,1944,Onboarding,2024-12-14,2024-12-16,72,63,In Progress,Low
+T849106,1722,Onboarding,2024-05-11,2024-05-13,72,67,Completed,Low
+T338499,1746,Leave Request,2024-10-26,2024-10-28,48,55,In Progress,Low
+T347088,1890,Exit Interview,2024-03-15,2024-03-15,24,16,In Progress,Low
+T780565,1499,Leave Request,2024-05-16,2024-05-17,24,44,Escalated,Low
+T360287,1625,Leave Request,2024-12-01,2024-12-02,24,30,In Progress,Low
+T396479,1794,Onboarding,2024-05-20,2024-05-20,24,14,Completed,Low
+T571938,140,Leave Request,2024-11-18,2024-11-20,48,53,Completed,Low
+T522959,1794,Exit Interview,2024-10-28,2024-10-29,48,44,Completed,Medium
+T115629,1972,Onboarding,2024-01-07,2024-01-08,48,41,In Progress,High
+T185684,1338,Exit Interview,2024-02-11,2024-02-13,48,65,In Progress,High
+T138554,1314,Onboarding,2024-08-19,2024-08-20,24,31,Completed,Medium
+T849176,424,Policy Query,2024-01-24,2024-01-27,72,77,In Progress,High
+T432823,1714,Onboarding,2024-08-23,2024-08-26,72,92,In Progress,Low
+T777044,734,Exit Interview,2024-12-24,2024-12-26,48,51,In Progress,Low
+T230728,1794,Leave Request,2024-08-12,2024-08-13,48,38,In Progress,Low
+T534491,1467,Onboarding,2024-01-22,2024-01-24,48,62,In Progress,Low
+T554461,184,Policy Query,2024-11-08,2024-11-10,72,68,In Progress,Low
+T267116,470,Exit Interview,2024-05-02,2024-05-04,48,48,In Progress,Medium
+T524725,1461,Policy Query,2024-11-03,2024-11-06,72,92,In Progress,Low
+T285537,1461,Leave Request,2024-03-11,2024-03-11,24,21,In Progress,Low
+T651039,608,Leave Request,2024-04-09,2024-04-10,24,34,In Progress,Low
+T269795,1944,Exit Interview,2024-12-07,2024-12-08,24,34,In Progress,Low
+T808078,1722,Exit Interview,2024-10-21,2024-10-22,48,38,Completed,Low
+T265808,103,Leave Request,2024-09-21,2024-09-23,48,62,In Progress,Medium
+T264183,1987,Exit Interview,2024-10-07,2024-10-10,72,75,Completed,High
+T285290,847,Onboarding,2024-11-13,2024-11-14,48,43,In Progress,Medium
+T180432,1778,Exit Interview,2024-10-14,2024-10-14,24,20,In Progress,High
+T678435,1467,Leave Request,2024-10-01,2024-10-03,72,64,In Progress,Low
+T603873,1625,Leave Request,2024-10-20,2024-10-21,24,30,Escalated,Medium
+T251410,1972,Leave Request,2024-08-08,2024-08-11,72,77,Completed,High
+T780100,1625,Leave Request,2024-07-01,2024-07-02,48,46,In Progress,Low
+T976805,1550,Policy Query,2024-12-12,2024-12-13,24,41,Escalated,Low
+T512762,1683,Policy Query,2024-01-22,2024-01-24,48,54,Escalated,Low
+T231374,910,Policy Query,2024-03-19,2024-03-20,24,40,In Progress,Low
+T965666,1467,Leave Request,2024-12-26,2024-12-29,72,86,Escalated,Medium
+T791991,608,Leave Request,2024-03-05,2024-03-05,24,16,Completed,Low
+T111169,1408,Policy Query,2024-03-01,2024-03-03,72,69,Completed,Low
+T446644,470,Exit Interview,2024-03-27,2024-03-27,24,17,Completed,Low
+T312804,590,Leave Request,2024-07-28,2024-07-28,24,22,In Progress,High
+T900427,1844,Policy Query,2024-10-28,2024-10-30,48,68,In Progress,Low
+T417650,1842,Onboarding,2024-12-10,2024-12-13,72,88,In Progress,Low
+T278184,566,Onboarding,2024-05-20,2024-05-22,48,65,In Progress,High
+T925280,1844,Leave Request,2024-09-11,2024-09-14,72,86,Completed,High
+T382302,910,Leave Request,2024-08-16,2024-08-19,72,86,In Progress,Medium
+T631281,140,Exit Interview,2024-12-16,2024-12-17,24,27,In Progress,Medium
+T616698,566,Onboarding,2024-03-12,2024-03-14,48,58,Escalated,High
+T120861,1625,Leave Request,2024-10-06,2024-10-07,48,41,Escalated,Medium
+T300529,1778,Leave Request,2024-01-15,2024-01-16,24,35,Escalated,Low
+T521734,909,Exit Interview,2024-08-24,2024-08-25,48,44,Completed,Medium
+T143103,1744,Leave Request,2024-04-26,2024-04-28,48,58,In Progress,Medium
+T526668,1844,Leave Request,2024-04-06,2024-04-09,72,77,In Progress,Low
+T628060,1461,Exit Interview,2024-12-17,2024-12-18,24,40,Escalated,Medium
+T747341,644,Exit Interview,2024-01-20,2024-01-21,24,38,In Progress,Medium
+T207495,103,Leave Request,2024-11-21,2024-11-23,48,58,In Progress,Low
+T581083,1499,Leave Request,2024-03-21,2024-03-22,24,35,Completed,High
+T127751,1714,Exit Interview,2024-12-25,2024-12-26,24,32,Escalated,High
+T302791,1352,Onboarding,2024-07-08,2024-07-08,24,14,In Progress,Low
+T708697,1722,Onboarding,2024-07-12,2024-07-13,24,42,In Progress,High
+T677715,1972,Leave Request,2024-12-21,2024-12-23,72,69,Escalated,Low
+T783603,1747,Policy Query,2024-12-23,2024-12-24,48,41,In Progress,Low
+T623000,566,Leave Request,2024-11-11,2024-11-12,48,46,Completed,High
+T708931,1722,Leave Request,2024-09-02,2024-09-04,48,58,Completed,Medium
+T368867,665,Exit Interview,2024-06-23,2024-06-24,48,45,In Progress,Low
+T271338,1352,Exit Interview,2024-06-14,2024-06-17,72,72,In Progress,Low
+T692830,847,Leave Request,2024-11-23,2024-11-25,72,70,Escalated,Low
+T594899,1778,Onboarding,2024-10-16,2024-10-19,72,86,In Progress,High
+T314708,1164,Exit Interview,2024-09-19,2024-09-22,72,92,Escalated,High
+T996625,1642,Policy Query,2024-03-06,2024-03-08,48,66,Escalated,Low
+T963670,1049,Leave Request,2024-06-15,2024-06-17,72,65,In Progress,Medium
+T902767,1972,Exit Interview,2024-03-18,2024-03-19,48,39,In Progress,Low
+T821851,869,Exit Interview,2024-06-11,2024-06-13,48,67,Completed,Low
+T587358,177,Exit Interview,2024-10-01,2024-10-03,48,55,In Progress,Medium
+T323925,1778,Leave Request,2024-06-08,2024-06-10,48,52,Escalated,Medium
+T481459,590,Exit Interview,2024-10-07,2024-10-09,48,64,In Progress,Low
+T493547,1744,Policy Query,2024-06-13,2024-06-15,48,48,In Progress,High
+T483333,133,Exit Interview,2024-02-26,2024-02-27,48,42,Completed,Low
+T337727,1352,Policy Query,2024-05-20,2024-05-22,48,57,Completed,Low
+T994958,1098,Onboarding,2024-01-24,2024-01-26,48,56,In Progress,High
+T147473,1352,Exit Interview,2024-05-26,2024-05-27,24,36,Completed,Low
+T132396,1408,Onboarding,2024-12-10,2024-12-11,24,26,In Progress,Medium
+T946600,1642,Policy Query,2024-06-18,2024-06-20,48,55,In Progress,High
+T999884,1338,Policy Query,2024-08-09,2024-08-10,24,31,In Progress,Low
+T616910,1714,Policy Query,2024-09-20,2024-09-22,72,66,In Progress,High
+T607484,1818,Onboarding,2024-02-02,2024-02-02,24,22,In Progress,Low
+T423362,1467,Policy Query,2024-12-04,2024-12-06,48,67,In Progress,Low
+T661261,103,Exit Interview,2024-12-04,2024-12-06,48,63,Completed,High
+T408946,133,Leave Request,2024-01-21,2024-01-22,24,44,In Progress,Low
+T652576,731,Exit Interview,2024-09-22,2024-09-24,72,63,Completed,Medium
+T844650,1778,Leave Request,2024-11-08,2024-11-10,48,56,Completed,Low
+T736219,103,Onboarding,2024-03-22,2024-03-22,24,14,In Progress,Low
+T138913,1746,Leave Request,2024-01-26,2024-01-26,24,20,Escalated,Medium
+T636190,1747,Exit Interview,2024-10-09,2024-10-10,48,42,In Progress,High
+T643339,1683,Policy Query,2024-07-18,2024-07-21,72,74,In Progress,Medium
+T531369,698,Exit Interview,2024-11-02,2024-11-03,24,24,Completed,High
+T805168,1842,Leave Request,2024-06-01,2024-06-04,72,92,In Progress,Medium
+T901768,731,Leave Request,2024-11-03,2024-11-04,48,46,Completed,Low
+T648772,665,Leave Request,2024-08-23,2024-08-24,24,42,Escalated,Medium
+T593608,1152,Leave Request,2024-07-19,2024-07-22,72,80,In Progress,Low
+T868520,133,Policy Query,2024-04-11,2024-04-12,24,32,In Progress,Low
+T564817,1842,Exit Interview,2024-04-15,2024-04-17,72,70,Escalated,Low
+T702168,1420,System Bug,2024-01-27,2024-01-27,24,15,In Progress,Medium
+T292549,1203,Access Request,2024-05-05,2024-05-05,24,17,In Progress,High
+T690311,1032,Access Request,2024-09-24,2024-09-25,24,39,Escalated,Low
+T559049,1596,Tech Support,2024-09-18,2024-09-21,72,77,In Progress,High
+T125514,1377,Software Install,2024-06-03,2024-06-04,24,43,Escalated,Low
+T977621,1440,Tech Support,2024-03-22,2024-03-25,72,79,In Progress,Low
+T360723,1111,System Bug,2024-09-21,2024-09-21,24,23,In Progress,Medium
+T452827,1206,Software Install,2024-05-08,2024-05-09,24,38,In Progress,Medium
+T447365,197,System Bug,2024-01-26,2024-01-26,24,21,Escalated,Low
+T788542,501,Access Request,2024-08-16,2024-08-17,24,33,Completed,Low
+T985915,1309,Access Request,2024-05-06,2024-05-07,48,45,Completed,Low
+T372414,1259,System Bug,2024-08-24,2024-08-26,48,53,In Progress,Low
+T430064,1682,System Bug,2024-08-01,2024-08-02,24,25,In Progress,Medium
+T460769,1402,System Bug,2024-03-06,2024-03-07,24,41,In Progress,Medium
+T473201,518,Software Install,2024-10-28,2024-10-28,24,22,In Progress,Low
+T446220,1905,Tech Support,2024-01-14,2024-01-16,72,65,In Progress,Low
+T321858,145,Tech Support,2024-12-28,2024-12-31,72,78,In Progress,Low
+T157968,273,System Bug,2024-05-14,2024-05-16,48,53,In Progress,Medium
+T593851,1389,Access Request,2024-02-15,2024-02-17,48,57,In Progress,High
+T270169,702,Access Request,2024-06-07,2024-06-09,72,71,In Progress,Medium
+T658324,584,Tech Support,2024-02-09,2024-02-11,48,55,Completed,Medium
+T653608,1936,Tech Support,2024-06-07,2024-06-09,72,62,Completed,Medium
+T819520,1640,Access Request,2024-03-21,2024-03-21,24,19,Completed,Medium
+T479235,1312,Access Request,2024-12-27,2024-12-29,48,65,Completed,Low
+T698920,578,Tech Support,2024-12-06,2024-12-07,24,38,In Progress,Low
+T759623,1608,Access Request,2024-10-09,2024-10-12,72,74,In Progress,Medium
+T323712,1941,Software Install,2024-05-04,2024-05-04,24,14,Completed,Low
+T474699,1859,Access Request,2024-04-03,2024-04-05,72,62,In Progress,Low
+T736285,918,Tech Support,2024-11-09,2024-11-09,24,21,Completed,Low
+T468145,275,System Bug,2024-12-13,2024-12-14,24,26,In Progress,Low
+T833926,624,Software Install,2024-10-08,2024-10-09,24,27,In Progress,Low
+T947923,385,Software Install,2024-07-01,2024-07-04,72,78,Completed,Low
+T849079,787,Software Install,2024-02-20,2024-02-22,48,68,Escalated,Low
+T798178,376,Access Request,2024-12-25,2024-12-28,72,80,Completed,High
+T153923,1847,Access Request,2024-10-24,2024-10-26,48,67,In Progress,Medium
+T622604,1736,System Bug,2024-06-09,2024-06-11,48,64,In Progress,Medium
+T899421,652,Access Request,2024-02-06,2024-02-08,48,55,Escalated,High
+T163044,1666,Software Install,2024-03-25,2024-03-27,72,68,Completed,Medium
+T598455,1079,Tech Support,2024-05-24,2024-05-27,72,81,In Progress,Medium
+T226084,2020,Software Install,2024-12-04,2024-12-04,24,19,In Progress,Low
+T349578,1682,Tech Support,2024-02-17,2024-02-18,48,43,In Progress,Medium
+T765164,1001,Software Install,2024-08-10,2024-08-13,72,76,In Progress,Medium
+T472715,2064,Tech Support,2024-07-24,2024-07-25,48,46,Escalated,Low
+T504035,1837,Tech Support,2024-04-10,2024-04-11,24,42,In Progress,Medium
+T553501,24,Access Request,2024-11-19,2024-11-20,24,42,In Progress,Medium
+T863460,2051,Software Install,2024-03-19,2024-03-22,72,80,In Progress,Low
+T183100,2010,System Bug,2024-05-13,2024-05-15,72,64,In Progress,High
+T609636,1564,Software Install,2024-09-16,2024-09-18,72,68,In Progress,High
+T406346,1850,Software Install,2024-02-20,2024-02-21,48,43,In Progress,Low
+T815454,1725,System Bug,2024-10-14,2024-10-16,48,53,Completed,Medium
+T986847,1321,System Bug,2024-06-10,2024-06-12,48,61,In Progress,Low
+T696344,1421,Access Request,2024-03-02,2024-03-02,24,19,Completed,Medium
+T478479,288,Tech Support,2024-12-11,2024-12-11,24,19,In Progress,Medium
+T763625,1035,Software Install,2024-07-08,2024-07-09,24,34,In Progress,Medium
+T917221,1022,Software Install,2024-06-06,2024-06-08,72,65,In Progress,Medium
+T871830,408,Access Request,2024-05-17,2024-05-19,72,68,In Progress,Low
+T940294,758,Access Request,2024-08-23,2024-08-25,72,62,Escalated,Low
+T127066,206,Software Install,2024-10-03,2024-10-04,24,44,Completed,Medium
+T790611,1727,Access Request,2024-05-01,2024-05-03,72,63,Escalated,Medium
+T901510,1655,Tech Support,2024-06-21,2024-06-23,72,65,In Progress,High
+T723101,1860,Tech Support,2024-09-03,2024-09-06,72,80,In Progress,Low
+T102096,28,Software Install,2024-08-26,2024-08-28,48,63,In Progress,Medium
+T385214,83,System Bug,2024-07-22,2024-07-23,48,44,Escalated,High
+T435067,1735,Access Request,2024-02-14,2024-02-16,72,65,In Progress,Low
+T384090,269,System Bug,2024-03-10,2024-03-11,24,35,Completed,Medium
+T869837,601,System Bug,2024-07-03,2024-07-06,72,78,In Progress,Medium
+T315760,895,System Bug,2024-06-12,2024-06-13,48,41,In Progress,Low
+T401863,1275,Software Install,2024-03-15,2024-03-16,24,36,In Progress,High
+T953026,1015,Software Install,2024-03-13,2024-03-16,72,92,In Progress,Low
+T808946,447,Access Request,2024-01-19,2024-01-22,72,74,In Progress,Low
+T848912,951,Tech Support,2024-06-02,2024-06-04,48,48,In Progress,Medium
+T490404,649,Tech Support,2024-02-28,2024-03-02,72,74,In Progress,Low
+T469179,286,Access Request,2024-02-23,2024-02-24,48,38,In Progress,Low
+T532990,306,Tech Support,2024-04-28,2024-04-28,24,15,In Progress,Low
+T405622,1648,System Bug,2024-01-11,2024-01-11,24,22,In Progress,Low
+T780856,242,Software Install,2024-05-12,2024-05-12,24,17,In Progress,Medium
+T730676,1696,Tech Support,2024-06-05,2024-06-08,72,79,Completed,Medium
+T849732,1888,Access Request,2024-10-14,2024-10-14,24,17,In Progress,High
+T432697,1303,Software Install,2024-03-02,2024-03-03,24,25,Completed,Low
+T377664,1997,Software Install,2024-05-12,2024-05-13,24,36,In Progress,Medium
+T152344,624,Software Install,2024-05-26,2024-05-29,72,86,In Progress,Medium
+T778438,1018,Access Request,2024-01-22,2024-01-24,72,62,In Progress,Medium
+T153572,1460,System Bug,2024-04-19,2024-04-22,72,87,In Progress,High
+T626137,2017,Software Install,2024-05-06,2024-05-07,48,38,In Progress,High
+T502036,602,Software Install,2024-07-26,2024-07-28,72,67,In Progress,High
+T404058,1516,System Bug,2024-07-13,2024-07-13,24,14,In Progress,Low
+T656834,150,System Bug,2024-04-03,2024-04-04,24,36,Escalated,Low
+T549885,655,Access Request,2024-08-09,2024-08-11,48,49,In Progress,Low
+T366364,1665,Access Request,2024-12-23,2024-12-23,24,20,In Progress,Low
+T408629,355,Access Request,2024-08-23,2024-08-24,48,39,Escalated,Medium
+T600382,964,Software Install,2024-01-26,2024-01-28,72,63,Escalated,Low
+T912873,1516,Software Install,2024-03-09,2024-03-10,24,26,In Progress,Medium
+T788950,1697,System Bug,2024-09-13,2024-09-16,72,72,Completed,Low
+T947390,969,Software Install,2024-06-14,2024-06-15,24,37,In Progress,Low
+T909932,1922,Tech Support,2024-07-24,2024-07-25,24,33,Completed,Medium
+T234793,1622,Tech Support,2024-11-04,2024-11-05,48,40,Escalated,Medium
+T514701,1307,Access Request,2024-07-19,2024-07-22,72,84,In Progress,Low
+T739847,828,Software Install,2024-11-26,2024-11-28,48,68,In Progress,Low
+T546741,1783,Software Install,2024-01-02,2024-01-05,72,78,In Progress,Low
+T980279,1506,Access Request,2024-12-26,2024-12-28,48,68,In Progress,Medium
+T809450,1294,Software Install,2024-09-18,2024-09-19,24,30,Completed,Medium
+T621983,1447,System Bug,2024-04-18,2024-04-19,24,44,Completed,High
+T786625,791,Software Install,2024-02-16,2024-02-17,24,32,Completed,Low
+T768022,905,Tech Support,2024-03-25,2024-03-27,72,66,In Progress,Medium
+T424055,724,Tech Support,2024-04-12,2024-04-15,72,82,In Progress,Medium
+T684710,1102,Access Request,2024-03-25,2024-03-26,24,39,In Progress,Low
+T464818,57,Access Request,2024-05-06,2024-05-09,72,74,Escalated,Low
+T538782,724,Software Install,2024-04-15,2024-04-17,48,63,In Progress,High
+T390721,1083,Tech Support,2024-08-20,2024-08-21,24,26,In Progress,High
+T571984,848,Tech Support,2024-08-01,2024-08-02,48,41,In Progress,High
+T355964,1133,System Bug,2024-05-07,2024-05-08,24,28,Escalated,Low
+T377657,1651,Tech Support,2024-05-26,2024-05-28,72,64,In Progress,Medium
+T785842,466,Access Request,2024-03-15,2024-03-17,72,68,In Progress,Low
+T974589,1068,Tech Support,2024-02-07,2024-02-09,48,61,In Progress,Medium
+T767689,2020,Access Request,2024-12-02,2024-12-04,48,53,Completed,High
+T456731,825,Tech Support,2024-09-12,2024-09-14,48,60,In Progress,Medium
+T958004,888,Access Request,2024-03-08,2024-03-09,24,34,Completed,Low
+T303301,1783,Tech Support,2024-05-13,2024-05-15,48,56,In Progress,Low
+T105451,691,Tech Support,2024-07-04,2024-07-05,24,39,In Progress,High
+T319995,1361,Software Install,2024-05-14,2024-05-15,24,37,In Progress,Low
+T243478,1599,Tech Support,2024-11-26,2024-11-28,48,49,In Progress,Low
+T233192,1434,System Bug,2024-07-28,2024-07-29,48,41,In Progress,Medium
+T294183,643,Software Install,2024-07-06,2024-07-08,48,50,Completed,High
+T205674,1106,System Bug,2024-03-01,2024-03-02,24,41,In Progress,Low
+T894119,1545,System Bug,2024-03-26,2024-03-29,72,85,Escalated,Low
+T195570,742,Tech Support,2024-08-15,2024-08-16,48,38,Completed,Low
+T657822,1258,Tech Support,2024-07-18,2024-07-19,48,40,Completed,Low
+T131509,1868,System Bug,2024-07-01,2024-07-04,72,86,Escalated,Low
+T819146,1014,Access Request,2024-10-21,2024-10-24,72,91,Completed,Low
+T412366,1073,Access Request,2024-05-13,2024-05-15,48,49,Escalated,Medium
+T267805,865,Software Install,2024-05-24,2024-05-26,72,63,Completed,Medium
+T882671,405,Access Request,2024-06-05,2024-06-07,48,65,In Progress,Medium
+T443715,233,Software Install,2024-06-14,2024-06-15,24,31,Completed,High
+T848852,1103,Software Install,2024-08-23,2024-08-24,24,29,Escalated,Medium
+T157398,170,System Bug,2024-01-24,2024-01-27,72,74,Escalated,Low
+T563411,1594,Software Install,2024-05-06,2024-05-09,72,83,In Progress,Medium
+T823186,826,System Bug,2024-06-01,2024-06-02,24,37,Completed,Medium
+T237382,159,Software Install,2024-03-13,2024-03-15,48,59,Completed,High
+T806789,1976,Access Request,2024-12-09,2024-12-10,24,40,In Progress,Medium
+T830657,144,System Bug,2024-07-23,2024-07-25,48,68,In Progress,Low
+T231554,1658,Access Request,2024-01-15,2024-01-16,48,45,In Progress,High
+T364766,1028,Access Request,2024-09-23,2024-09-26,72,77,Escalated,Low
+T388501,1434,Tech Support,2024-07-05,2024-07-07,48,67,Completed,Medium
+T131394,1102,Software Install,2024-10-12,2024-10-13,48,44,In Progress,Low
+T186731,429,Access Request,2024-07-11,2024-07-13,48,65,In Progress,Medium
+T914636,1215,Access Request,2024-02-13,2024-02-16,72,86,In Progress,Medium
+T436721,2038,System Bug,2024-10-09,2024-10-11,72,65,In Progress,Low
+T799620,1234,Tech Support,2024-06-01,2024-06-04,72,82,In Progress,Low
+T654213,226,System Bug,2024-02-12,2024-02-14,48,68,Escalated,Low
+T994360,226,Access Request,2024-04-13,2024-04-16,72,87,Escalated,High
+T907203,1193,System Bug,2024-08-09,2024-08-10,48,45,Completed,Low
+T167818,744,Software Install,2024-08-21,2024-08-23,48,49,In Progress,Low
+T712059,1080,Software Install,2024-10-12,2024-10-14,48,50,Completed,High
+T606135,1992,Access Request,2024-08-27,2024-08-30,72,79,In Progress,Low
+T721897,905,System Bug,2024-07-12,2024-07-15,72,91,Completed,Medium
+T951020,1377,Tech Support,2024-06-26,2024-06-28,48,51,In Progress,Medium
+T760914,1534,Software Install,2024-09-22,2024-09-23,48,42,Escalated,High
+T270557,1753,System Bug,2024-04-19,2024-04-21,72,62,Completed,High
+T189895,1725,Tech Support,2024-03-07,2024-03-07,24,19,In Progress,Medium
+T305977,1709,Software Install,2024-06-26,2024-06-27,48,41,In Progress,High
+T246294,602,System Bug,2024-01-25,2024-01-26,24,32,In Progress,High
+T647812,1215,Tech Support,2024-01-07,2024-01-07,24,15,In Progress,Medium
+T828657,926,Tech Support,2024-04-09,2024-04-10,24,34,Completed,Medium
+T738129,850,Access Request,2024-02-01,2024-02-03,72,69,Completed,Low
+T146199,880,Access Request,2024-08-13,2024-08-15,72,63,In Progress,Low
+T841135,562,Tech Support,2024-07-17,2024-07-19,72,64,In Progress,Low
+T939360,139,System Bug,2024-12-18,2024-12-20,48,53,In Progress,Low
+T931809,12,Tech Support,2024-05-07,2024-05-09,48,63,In Progress,Low
+T299347,1971,Tech Support,2024-10-11,2024-10-12,24,37,In Progress,Medium
+T550833,924,Tech Support,2024-01-11,2024-01-13,48,64,Completed,Low
+T453064,1248,Tech Support,2024-12-14,2024-12-15,24,33,In Progress,Medium
+T653076,811,Tech Support,2024-11-09,2024-11-11,48,52,In Progress,High
+T575322,1415,System Bug,2024-10-10,2024-10-12,72,63,In Progress,Low
+T825985,1682,System Bug,2024-05-05,2024-05-05,24,22,Completed,Low
+T506429,1893,Access Request,2024-02-19,2024-02-22,72,88,Completed,Low
+T275758,1982,System Bug,2024-06-15,2024-06-16,24,32,In Progress,Low
+T333818,1989,Software Install,2024-07-20,2024-07-21,24,29,Escalated,Low
+T244552,932,Tech Support,2024-04-04,2024-04-04,24,19,Escalated,Low
+T592763,193,Software Install,2024-05-13,2024-05-14,24,25,Completed,High
+T677293,1116,Tech Support,2024-01-12,2024-01-13,24,40,Escalated,Low
+T583827,1158,Software Install,2024-08-11,2024-08-13,48,61,In Progress,Medium
+T228111,2,Software Install,2024-05-22,2024-05-22,24,23,In Progress,Low
+T703236,526,Software Install,2024-04-28,2024-05-01,72,78,In Progress,High
+T390796,812,Software Install,2024-12-04,2024-12-07,72,80,In Progress,Medium
+T249614,1092,Access Request,2024-11-12,2024-11-14,48,59,In Progress,Low
+T368575,1483,Tech Support,2024-11-17,2024-11-18,24,29,In Progress,Low
+T944026,132,Access Request,2024-09-21,2024-09-22,24,33,In Progress,High
+T834172,1543,Tech Support,2024-10-05,2024-10-07,48,49,In Progress,Medium
+T966700,671,System Bug,2024-05-26,2024-05-27,24,36,Escalated,Low
+T245766,442,System Bug,2024-10-05,2024-10-06,48,38,In Progress,High
+T840536,347,Software Install,2024-08-09,2024-08-11,72,69,Escalated,Medium
+T707886,1200,Software Install,2024-05-20,2024-05-23,72,90,In Progress,High
+T562144,161,Access Request,2024-09-06,2024-09-06,24,22,In Progress,High
+T596381,1030,System Bug,2024-09-28,2024-10-01,72,84,In Progress,Medium
+T669831,1558,System Bug,2024-04-21,2024-04-23,48,53,Completed,Low
+T409298,1016,Access Request,2024-02-06,2024-02-09,72,73,In Progress,Low
+T218345,505,Access Request,2024-12-23,2024-12-23,24,17,In Progress,High
+T455458,744,System Bug,2024-06-21,2024-06-24,72,91,In Progress,Low
+T855684,1931,Tech Support,2024-10-11,2024-10-13,48,50,Escalated,Low
+T947483,2015,System Bug,2024-09-17,2024-09-19,48,59,Escalated,Low
+T491433,1005,Software Install,2024-06-20,2024-06-23,72,86,Completed,Low
+T394503,1084,Software Install,2024-02-08,2024-02-11,72,92,Completed,Low
+T800469,1547,Tech Support,2024-03-02,2024-03-03,24,40,Completed,High
+T173117,1249,Tech Support,2024-12-06,2024-12-08,48,68,In Progress,Low
+T477764,139,Tech Support,2024-05-26,2024-05-29,72,77,In Progress,High
+T309903,1084,Software Install,2024-05-24,2024-05-26,48,54,In Progress,High
+T461275,727,Software Install,2024-02-24,2024-02-27,72,80,In Progress,Medium
+T750551,912,Access Request,2024-05-05,2024-05-08,72,83,In Progress,Medium
+T487871,1677,Software Install,2024-04-20,2024-04-23,72,78,Completed,Low
+T909948,1932,Tech Support,2024-09-25,2024-09-27,48,55,Escalated,Low
+T840313,335,Software Install,2024-09-13,2024-09-16,72,92,Completed,High
+T313705,1661,Tech Support,2024-01-04,2024-01-05,24,36,Escalated,Low
+T651717,208,Access Request,2024-02-20,2024-02-21,24,43,In Progress,Medium
+T823539,1852,Tech Support,2024-01-01,2024-01-02,24,43,In Progress,Low
+T209951,309,System Bug,2024-06-28,2024-06-28,24,17,Escalated,Low
+T836076,1662,System Bug,2024-10-11,2024-10-14,72,88,In Progress,High
+T822043,1724,Software Install,2024-08-24,2024-08-26,48,48,In Progress,Low
+T283172,912,Tech Support,2024-01-01,2024-01-02,24,30,Completed,Low
+T475317,1601,Software Install,2024-08-28,2024-08-31,72,84,Escalated,Low
+T734010,824,Tech Support,2024-07-11,2024-07-13,48,58,Completed,Medium
+T807105,1615,Tech Support,2024-10-02,2024-10-03,24,32,In Progress,Low
+T276938,1156,Access Request,2024-04-21,2024-04-23,72,64,Completed,High
+T354300,905,System Bug,2024-08-03,2024-08-04,24,41,Escalated,High
+T997447,422,System Bug,2024-09-12,2024-09-12,24,23,In Progress,Low
+T350618,352,Software Install,2024-06-08,2024-06-10,48,66,Completed,Medium
+T162068,351,Tech Support,2024-05-15,2024-05-17,48,50,Completed,Medium
+T972634,84,System Bug,2024-01-17,2024-01-17,24,17,In Progress,Low
+T466424,249,Software Install,2024-09-14,2024-09-14,24,22,Escalated,Low
+T716036,159,Access Request,2024-08-05,2024-08-08,72,86,In Progress,Low
+T473857,450,Software Install,2024-03-25,2024-03-28,72,86,In Progress,Medium
+T560738,126,Software Install,2024-05-25,2024-05-27,72,67,Escalated,Low
+T293285,376,System Bug,2024-01-10,2024-01-12,48,53,In Progress,Low
+T535698,499,Access Request,2024-04-16,2024-04-19,72,76,In Progress,Medium
+T488774,1821,Tech Support,2024-10-14,2024-10-14,24,23,In Progress,Medium
+T134647,1424,System Bug,2024-04-02,2024-04-05,72,83,In Progress,Medium
+T729258,1484,Access Request,2024-03-02,2024-03-03,24,25,In Progress,Medium
+T944712,643,Tech Support,2024-06-12,2024-06-12,24,22,In Progress,Medium
+T820385,2012,Tech Support,2024-01-28,2024-01-29,24,28,Escalated,Medium
+T248919,887,Access Request,2024-09-23,2024-09-26,72,91,Escalated,Low
+T989836,1265,Software Install,2024-07-23,2024-07-24,24,25,In Progress,Low
+T891071,1911,Tech Support,2024-06-24,2024-06-24,24,23,In Progress,Low
+T706922,1786,System Bug,2024-05-16,2024-05-19,72,75,Escalated,Medium
+T702478,1175,System Bug,2024-06-23,2024-06-25,72,65,Escalated,Low
+T649696,675,Tech Support,2024-12-12,2024-12-13,24,26,In Progress,Low
+T683636,1014,Software Install,2024-11-06,2024-11-09,72,87,In Progress,Low
+T668971,208,Tech Support,2024-06-22,2024-06-23,24,37,In Progress,Low
+T777335,1201,System Bug,2024-02-23,2024-02-24,24,32,Escalated,Low
+T700787,155,System Bug,2024-08-25,2024-08-27,48,52,In Progress,Low
+T444376,1954,Software Install,2024-08-08,2024-08-08,24,21,In Progress,Low
+T296437,352,Software Install,2024-05-25,2024-05-28,72,90,In Progress,Low
+T585134,325,System Bug,2024-05-20,2024-05-21,24,36,In Progress,Medium
+T120420,837,Software Install,2024-03-22,2024-03-24,48,50,In Progress,Medium
+T123967,1053,Software Install,2024-09-28,2024-10-01,72,80,In Progress,Medium
+T433514,807,Software Install,2024-03-17,2024-03-19,48,68,In Progress,Low
+T480716,1011,Access Request,2024-09-25,2024-09-25,24,14,Completed,Medium
+T801860,1333,Tech Support,2024-03-09,2024-03-11,48,67,Escalated,Low
+T801375,390,System Bug,2024-02-23,2024-02-24,48,40,Escalated,Low
+T673950,448,System Bug,2024-04-08,2024-04-08,24,23,In Progress,High
+T375484,429,Software Install,2024-10-16,2024-10-16,24,22,In Progress,Low
+T851262,804,Software Install,2024-10-19,2024-10-20,24,25,Completed,Low
+T865651,1494,Access Request,2024-11-17,2024-11-19,72,62,In Progress,Low
+T575918,179,Tech Support,2024-01-09,2024-01-11,72,66,In Progress,High
+T617882,308,Software Install,2024-12-01,2024-12-03,48,57,In Progress,Low
+T454609,254,Access Request,2024-08-20,2024-08-21,48,44,Completed,Medium
+T708022,1604,Access Request,2024-05-01,2024-05-03,48,55,In Progress,Low
+T450865,1298,System Bug,2024-06-05,2024-06-07,48,62,In Progress,Medium
+T953361,1196,System Bug,2024-03-26,2024-03-27,48,40,In Progress,Medium
+T886127,622,System Bug,2024-06-19,2024-06-19,24,18,In Progress,Low
+T511320,1847,Tech Support,2024-06-28,2024-06-30,72,67,Escalated,Low
+T624300,1062,System Bug,2024-09-13,2024-09-16,72,85,In Progress,Low
+T509410,1311,System Bug,2024-01-01,2024-01-02,24,26,In Progress,Low
+T662150,1101,Access Request,2024-09-24,2024-09-25,48,44,In Progress,Low
+T749678,338,Tech Support,2024-01-03,2024-01-05,48,65,Escalated,Low
+T493042,11,Access Request,2024-09-27,2024-09-29,72,64,In Progress,Medium
+T518754,806,System Bug,2024-01-13,2024-01-15,48,48,In Progress,Medium
+T312744,454,Access Request,2024-08-24,2024-08-26,48,61,In Progress,High
+T179897,2008,System Bug,2024-11-06,2024-11-08,72,68,In Progress,Low
+T269111,1798,Access Request,2024-02-05,2024-02-08,72,73,Escalated,Low
+T325766,2025,System Bug,2024-03-09,2024-03-12,72,85,Escalated,Medium
+T676957,1551,System Bug,2024-09-16,2024-09-17,48,45,Completed,High
+T467674,331,Software Install,2024-05-14,2024-05-16,72,66,Completed,Low
+T516463,253,System Bug,2024-10-01,2024-10-03,72,70,In Progress,High
+T368780,827,Software Install,2024-11-21,2024-11-23,48,58,Completed,Low
+T542911,657,Software Install,2024-09-16,2024-09-18,48,61,In Progress,Low
+T575877,11,Software Install,2024-01-01,2024-01-04,72,83,Completed,High
+T843988,491,System Bug,2024-09-05,2024-09-06,24,42,Escalated,Low
+T520641,143,System Bug,2024-07-01,2024-07-03,48,63,Escalated,Low
+T721174,447,Tech Support,2024-02-12,2024-02-14,72,69,In Progress,Low
+T126000,1473,Access Request,2024-02-24,2024-02-27,72,82,Escalated,Low
+T491691,1712,Access Request,2024-10-09,2024-10-11,48,53,Escalated,Low
+T578832,832,Access Request,2024-10-04,2024-10-05,48,47,In Progress,Low
+T788314,1249,Access Request,2024-03-25,2024-03-27,48,58,Completed,High
+T158325,1993,Access Request,2024-03-20,2024-03-20,24,23,Escalated,Medium
+T720415,932,Software Install,2024-11-17,2024-11-20,72,73,Completed,Low
+T763737,1633,Access Request,2024-10-04,2024-10-05,24,39,In Progress,Low
+T324589,250,Software Install,2024-10-20,2024-10-21,24,37,In Progress,Medium
+T696190,1042,Tech Support,2024-02-02,2024-02-02,24,22,In Progress,Low
+T941940,1195,Tech Support,2024-05-01,2024-05-02,48,39,In Progress,High
+T533611,1133,System Bug,2024-06-19,2024-06-21,48,66,In Progress,High
+T160879,288,System Bug,2024-10-03,2024-10-04,48,41,Completed,Medium
+T385545,116,Access Request,2024-08-16,2024-08-18,48,48,In Progress,High
+T147138,605,Software Install,2024-09-22,2024-09-22,24,19,In Progress,Low
+T507664,894,System Bug,2024-05-05,2024-05-06,48,41,In Progress,Low
+T252570,1294,Software Install,2024-06-07,2024-06-08,24,43,Escalated,Medium
+T173475,1719,System Bug,2024-07-14,2024-07-14,24,17,Escalated,Medium
+T398293,124,Software Install,2024-01-22,2024-01-22,24,15,Completed,High
+T838350,1617,Software Install,2024-05-18,2024-05-20,48,62,Escalated,Medium
+T549412,63,Access Request,2024-07-18,2024-07-18,24,16,In Progress,Low
+T548496,332,System Bug,2024-12-14,2024-12-15,24,35,Escalated,Medium
+T805021,2022,Access Request,2024-05-08,2024-05-10,48,59,In Progress,High
+T368570,1956,System Bug,2024-06-28,2024-06-30,48,55,In Progress,Medium
+T822904,461,Access Request,2024-04-20,2024-04-23,72,73,Escalated,Low
+T317879,1529,Tech Support,2024-07-24,2024-07-26,48,61,In Progress,Medium
+T492480,377,Software Install,2024-07-20,2024-07-23,72,83,Escalated,Medium
+T948339,76,System Bug,2024-09-24,2024-09-26,72,67,In Progress,Low
+T243238,1850,System Bug,2024-02-26,2024-02-28,72,67,Completed,High
+T155779,483,Tech Support,2024-03-07,2024-03-09,48,49,In Progress,High
+T396208,464,System Bug,2024-08-09,2024-08-10,24,30,In Progress,Medium
+T944312,811,Access Request,2024-07-16,2024-07-18,48,56,Escalated,Medium
+T613457,733,Software Install,2024-11-21,2024-11-24,72,91,Escalated,Medium
+T816442,944,Tech Support,2024-12-15,2024-12-16,24,36,In Progress,High
+T917619,442,System Bug,2024-11-18,2024-11-20,72,69,Escalated,High
+T249830,76,System Bug,2024-02-04,2024-02-06,48,57,Escalated,Low
+T689246,961,Software Install,2024-06-09,2024-06-11,48,68,In Progress,Low
+T315332,1084,Software Install,2024-10-09,2024-10-10,24,40,In Progress,High
+T836825,39,System Bug,2024-02-28,2024-03-02,72,79,Escalated,Low
+T159305,927,Tech Support,2024-08-07,2024-08-09,48,56,Escalated,Medium
+T370799,1257,Tech Support,2024-01-21,2024-01-22,24,40,In Progress,High
+T439281,848,Software Install,2024-10-17,2024-10-19,72,62,In Progress,Low
+T687626,46,System Bug,2024-02-05,2024-02-07,72,67,In Progress,High
+T323098,867,Access Request,2024-02-10,2024-02-12,48,56,In Progress,Low
+T272030,1684,Tech Support,2024-02-22,2024-02-25,72,89,In Progress,Medium
+T398581,417,Access Request,2024-11-19,2024-11-21,72,66,In Progress,Low
+T976914,811,Tech Support,2024-12-02,2024-12-04,72,68,Escalated,Medium
+T369975,1834,Access Request,2024-10-10,2024-10-13,72,86,Escalated,Low
+T547235,517,System Bug,2024-11-20,2024-11-21,48,46,In Progress,Medium
+T506828,1184,Access Request,2024-06-04,2024-06-07,72,79,Completed,Medium
+T783171,1640,Access Request,2024-06-06,2024-06-07,24,31,In Progress,High
+T534943,1596,Access Request,2024-01-16,2024-01-17,24,39,Escalated,High
+T842603,1133,Access Request,2024-09-13,2024-09-15,48,57,In Progress,Medium
+T641992,165,Access Request,2024-07-10,2024-07-11,48,40,In Progress,Medium
+T900512,1709,Tech Support,2024-04-12,2024-04-13,48,40,In Progress,Medium
+T785568,773,Access Request,2024-03-02,2024-03-05,72,77,Completed,Medium
+T854013,905,Access Request,2024-01-22,2024-01-25,72,85,In Progress,Low
+T712624,405,Tech Support,2024-08-08,2024-08-08,24,20,Escalated,Low
+T636292,1907,System Bug,2024-01-12,2024-01-13,48,42,In Progress,Medium
+T963266,927,Tech Support,2024-01-01,2024-01-01,24,18,In Progress,Low
+T957002,1648,System Bug,2024-05-01,2024-05-03,48,59,In Progress,Low
+T334734,1564,Access Request,2024-02-18,2024-02-21,72,87,Completed,High
+T129625,605,System Bug,2024-07-11,2024-07-14,72,78,Escalated,High
+T155774,441,System Bug,2024-04-22,2024-04-23,24,44,In Progress,Low
+T722166,1969,Tech Support,2024-03-04,2024-03-07,72,75,In Progress,Low
+T303570,151,Software Install,2024-09-06,2024-09-08,72,63,Completed,Low
+T630301,1069,Software Install,2024-06-10,2024-06-12,48,58,In Progress,Medium
+T407593,634,Tech Support,2024-11-20,2024-11-20,24,18,In Progress,Low
+T582293,758,Software Install,2024-04-12,2024-04-14,72,71,In Progress,High
+T207671,1509,System Bug,2024-08-21,2024-08-23,48,63,In Progress,Medium
+T963563,799,Tech Support,2024-10-05,2024-10-07,48,49,In Progress,Medium
+T137808,1960,Access Request,2024-04-02,2024-04-03,24,35,Completed,Low
+T519869,1154,System Bug,2024-04-21,2024-04-24,72,85,In Progress,High
+T815477,1936,Access Request,2024-08-19,2024-08-21,48,48,Escalated,Low
+T955431,119,Access Request,2024-04-08,2024-04-08,24,22,In Progress,High
+T764890,811,Tech Support,2024-07-18,2024-07-18,24,22,Escalated,Low
+T784704,865,Software Install,2024-09-09,2024-09-10,24,30,In Progress,Low
+T448508,1504,Access Request,2024-08-04,2024-08-07,72,92,Escalated,Medium
+T958414,341,System Bug,2024-12-15,2024-12-16,48,42,Completed,Low
+T837550,832,System Bug,2024-09-03,2024-09-05,48,56,In Progress,High
+T823078,194,Tech Support,2024-04-26,2024-04-28,72,70,Completed,Low
+T820906,1534,System Bug,2024-10-21,2024-10-23,48,65,In Progress,Medium
+T252428,924,Access Request,2024-05-11,2024-05-12,24,33,Escalated,Low
+T709414,1665,System Bug,2024-06-19,2024-06-22,72,88,In Progress,Medium
+T918125,1071,Tech Support,2024-03-14,2024-03-15,24,24,In Progress,Medium
+T640762,1108,Software Install,2024-05-18,2024-05-21,72,89,Escalated,Low
+T844403,63,Software Install,2024-03-14,2024-03-16,48,65,Escalated,Medium
+T546754,1621,Software Install,2024-05-18,2024-05-19,24,26,In Progress,Low
+T340265,444,System Bug,2024-07-02,2024-07-05,72,85,In Progress,Medium
+T944363,635,System Bug,2024-12-24,2024-12-27,72,85,In Progress,Low
+T964699,518,Access Request,2024-04-22,2024-04-23,24,36,In Progress,Low
+T709530,762,Software Install,2024-01-07,2024-01-07,24,16,Escalated,Medium
+T215286,1238,Access Request,2024-08-21,2024-08-24,72,87,In Progress,Low
+T580541,575,Software Install,2024-12-13,2024-12-15,72,62,In Progress,Low
+T347803,1465,Access Request,2024-05-19,2024-05-22,72,76,In Progress,Medium
+T178830,112,Software Install,2024-07-09,2024-07-10,24,39,In Progress,Medium
+T377450,258,Tech Support,2024-03-19,2024-03-21,72,70,In Progress,High
+T499928,1829,Tech Support,2024-05-26,2024-05-29,72,91,Escalated,Low
+T543058,153,Access Request,2024-04-04,2024-04-06,48,56,In Progress,Low
+T233549,218,Software Install,2024-11-21,2024-11-24,72,88,In Progress,Low
+T388753,352,Software Install,2024-04-05,2024-04-06,48,42,Completed,Low
+T897139,1982,Tech Support,2024-06-11,2024-06-14,72,87,In Progress,Low
+T791460,309,System Bug,2024-08-25,2024-08-27,48,50,Escalated,Medium
+T180103,1417,System Bug,2024-02-01,2024-02-04,72,91,In Progress,Low
+T582694,1303,Software Install,2024-03-05,2024-03-05,24,15,Completed,High
+T319920,1604,System Bug,2024-09-19,2024-09-21,48,60,In Progress,Low
+T581704,1275,Access Request,2024-03-19,2024-03-22,72,77,Escalated,Low
+T309384,1976,System Bug,2024-03-28,2024-03-29,48,47,In Progress,Low
+T957478,1513,Software Install,2024-12-18,2024-12-21,72,86,In Progress,Medium
+T298709,852,Tech Support,2024-06-24,2024-06-25,24,25,In Progress,Medium
+T611542,1156,Software Install,2024-06-27,2024-06-28,48,44,In Progress,Medium
+T237093,336,Access Request,2024-02-11,2024-02-12,48,40,In Progress,Low
+T492909,1755,Tech Support,2024-10-06,2024-10-09,72,92,Escalated,Low
+T592999,1094,Tech Support,2024-01-11,2024-01-12,24,41,In Progress,Low
+T413876,315,Software Install,2024-11-21,2024-11-21,24,20,In Progress,Low
+T300775,1762,Access Request,2024-11-01,2024-11-03,72,65,In Progress,Low
+T609010,143,System Bug,2024-10-07,2024-10-08,24,33,In Progress,Medium
+T116196,927,Access Request,2024-07-19,2024-07-20,24,40,Escalated,Medium
+T923541,828,System Bug,2024-08-25,2024-08-27,48,52,Completed,High
+T598406,1162,Tech Support,2024-09-02,2024-09-02,24,19,In Progress,Low
+T741767,338,Tech Support,2024-12-17,2024-12-19,48,53,In Progress,Low
+T379394,934,System Bug,2024-07-24,2024-07-25,24,24,In Progress,Low
+T638589,64,System Bug,2024-09-24,2024-09-27,72,80,In Progress,Low
+T493484,2064,Access Request,2024-09-08,2024-09-10,72,71,In Progress,Medium
+T185651,1888,Access Request,2024-09-18,2024-09-21,72,76,Completed,High
+T398513,138,Software Install,2024-06-07,2024-06-09,48,61,In Progress,Medium
+T957891,601,Access Request,2024-01-08,2024-01-08,24,16,In Progress,Medium
+T181070,571,Tech Support,2024-05-12,2024-05-14,48,64,In Progress,High
+T948424,1822,System Bug,2024-04-24,2024-04-25,24,34,Completed,Medium
+T752362,198,Software Install,2024-12-26,2024-12-28,48,56,In Progress,Low
+T221810,1682,System Bug,2024-01-01,2024-01-01,24,23,In Progress,Low
+T639371,347,Access Request,2024-11-25,2024-11-26,24,30,In Progress,Low
+T850664,384,Software Install,2024-07-06,2024-07-07,24,43,Completed,High
+T754798,2027,System Bug,2024-07-17,2024-07-19,48,65,In Progress,Medium
+T433511,880,Software Install,2024-02-23,2024-02-26,72,72,Escalated,Low
+T917585,18,Software Install,2024-09-10,2024-09-12,72,67,In Progress,Low
+T238749,1721,Tech Support,2024-06-04,2024-06-07,72,86,In Progress,Low
+T267855,1102,Software Install,2024-12-21,2024-12-22,24,43,In Progress,Low
+T832140,1762,Access Request,2024-07-01,2024-07-04,72,80,In Progress,Medium
+T995647,1771,Access Request,2024-09-17,2024-09-19,48,67,In Progress,High
+T878030,1870,Tech Support,2024-01-09,2024-01-11,48,50,In Progress,Medium
+T724538,1405,Tech Support,2024-12-26,2024-12-27,24,36,In Progress,Medium
+T539751,881,Access Request,2024-02-11,2024-02-12,48,41,In Progress,High
+T756515,1480,Software Install,2024-09-12,2024-09-14,48,55,Completed,Low
+T819420,630,Software Install,2024-06-16,2024-06-18,72,70,Completed,Low
+T979628,1360,System Bug,2024-12-16,2024-12-17,24,43,In Progress,Low
+T577490,1623,System Bug,2024-09-23,2024-09-26,72,73,Escalated,Low
+T580100,1458,Access Request,2024-05-27,2024-05-28,24,43,Escalated,Medium
+T418859,253,System Bug,2024-03-24,2024-03-25,48,39,Escalated,Low
+T855683,138,Access Request,2024-01-05,2024-01-05,24,18,In Progress,Medium
+T902476,1420,Software Install,2024-02-13,2024-02-14,24,32,In Progress,Low
+T762535,1237,Tech Support,2024-08-08,2024-08-09,48,42,Escalated,Low
+T724649,949,Software Install,2024-08-03,2024-08-04,24,30,Escalated,Low
+T354423,419,Access Request,2024-12-12,2024-12-13,24,24,Completed,Low
+T582572,1664,System Bug,2024-07-11,2024-07-13,48,68,In Progress,High
+T967152,1291,System Bug,2024-04-28,2024-04-30,48,66,In Progress,High
+T712405,1184,Tech Support,2024-12-19,2024-12-20,24,24,Escalated,Medium
+T588420,1775,Tech Support,2024-02-25,2024-02-28,72,84,In Progress,Medium
+T799805,1116,Tech Support,2024-12-13,2024-12-16,72,86,Escalated,Low
+T181985,246,System Bug,2024-01-04,2024-01-05,24,42,Completed,Low
+T564382,1030,Tech Support,2024-10-03,2024-10-06,72,79,In Progress,High
+T493413,461,System Bug,2024-05-25,2024-05-28,72,76,In Progress,Medium
+T602683,1537,Software Install,2024-11-06,2024-11-07,24,25,Escalated,Low
+T161162,1102,Access Request,2024-03-17,2024-03-18,48,47,In Progress,Low
+T281284,881,Tech Support,2024-02-18,2024-02-19,24,43,In Progress,Low
+T300253,332,Software Install,2024-07-23,2024-07-24,24,33,Escalated,Medium
+T377463,164,Software Install,2024-06-06,2024-06-08,48,53,In Progress,Low
+T956884,1888,System Bug,2024-12-10,2024-12-13,72,85,Completed,Medium
+T111947,1162,Tech Support,2024-08-10,2024-08-13,72,76,Completed,Low
+T424822,150,Access Request,2024-09-24,2024-09-24,24,23,In Progress,Low
+T742254,1506,Tech Support,2024-10-11,2024-10-11,24,21,In Progress,Low
+T471797,1789,Software Install,2024-07-12,2024-07-13,48,40,In Progress,Low
+T174266,1502,Tech Support,2024-01-21,2024-01-21,24,16,In Progress,Medium
+T166870,1196,Access Request,2024-01-12,2024-01-15,72,75,Completed,Medium
+T427681,999,Access Request,2024-04-21,2024-04-22,24,43,Escalated,Low
+T531382,110,System Bug,2024-04-16,2024-04-16,24,23,In Progress,Low
+T238820,1627,Access Request,2024-09-23,2024-09-24,48,44,In Progress,High
+T362733,1269,Software Install,2024-12-04,2024-12-06,48,51,Completed,High
+T522878,1771,Access Request,2024-09-25,2024-09-28,72,87,In Progress,Low
+T466125,447,Tech Support,2024-11-22,2024-11-23,24,41,In Progress,Low
+T163564,1755,Tech Support,2024-09-22,2024-09-22,24,15,In Progress,Low
+T613960,1737,Tech Support,2024-10-14,2024-10-16,72,64,Completed,High
+T735459,1301,Software Install,2024-04-18,2024-04-18,24,14,Completed,Medium
+T559523,1228,Tech Support,2024-05-22,2024-05-23,48,42,Escalated,Low
+T868286,1158,Software Install,2024-06-01,2024-06-02,24,36,Escalated,Low
+T223728,275,Access Request,2024-08-23,2024-08-26,72,89,Completed,Medium
+T936582,482,System Bug,2024-08-18,2024-08-19,24,41,Escalated,Low
+T629078,1596,Tech Support,2024-10-25,2024-10-26,48,44,In Progress,Low
+T883826,462,System Bug,2024-01-27,2024-01-29,48,64,Escalated,Low
+T444056,1821,System Bug,2024-03-26,2024-03-27,48,44,In Progress,Low
+T308011,624,Software Install,2024-12-06,2024-12-07,24,34,In Progress,Low
+T349278,1599,System Bug,2024-09-14,2024-09-16,48,57,In Progress,Medium
+T499919,1640,Access Request,2024-01-22,2024-01-25,72,91,Escalated,High
+T696394,275,System Bug,2024-07-22,2024-07-24,48,63,In Progress,High
+T486510,1767,Software Install,2024-05-16,2024-05-19,72,87,Escalated,Medium
+T826843,1447,Access Request,2024-04-14,2024-04-15,48,38,In Progress,Low
+T364509,791,Access Request,2024-09-09,2024-09-12,72,78,In Progress,Low
+T466288,1248,Software Install,2024-02-04,2024-02-05,24,41,In Progress,High
+T702044,639,Software Install,2024-01-25,2024-01-27,72,64,Escalated,Medium
+T782979,101,System Bug,2024-04-21,2024-04-24,72,82,Completed,Low
+T324599,1251,System Bug,2024-07-08,2024-07-10,48,65,In Progress,High
+T926892,1033,Access Request,2024-01-24,2024-01-26,72,64,Escalated,Medium
+T945777,145,System Bug,2024-07-27,2024-07-30,72,89,Completed,Medium
+T796220,1966,Tech Support,2024-05-23,2024-05-24,48,38,In Progress,Medium
+T536637,1217,Tech Support,2024-03-08,2024-03-11,72,76,Escalated,Low
+T590976,1263,System Bug,2024-11-28,2024-11-28,24,18,In Progress,Low
+T527551,1441,Software Install,2024-10-03,2024-10-05,72,62,In Progress,High
+T613144,1721,Access Request,2024-11-26,2024-11-28,48,53,In Progress,Low
+T393252,395,System Bug,2024-03-24,2024-03-25,24,30,Escalated,High
+T932465,1126,Access Request,2024-04-12,2024-04-12,24,21,Completed,Low
+T867115,199,Software Install,2024-03-03,2024-03-04,24,37,In Progress,High
+T574866,1216,Software Install,2024-03-12,2024-03-13,48,40,In Progress,High
+T443058,346,System Bug,2024-10-12,2024-10-14,48,57,In Progress,Medium
+T734644,1775,Access Request,2024-12-17,2024-12-20,72,78,In Progress,High
+T595593,84,Tech Support,2024-03-10,2024-03-12,48,66,In Progress,High
+T937086,141,Tech Support,2024-05-26,2024-05-28,48,61,Escalated,Low
+T957776,441,System Bug,2024-10-14,2024-10-15,24,37,Completed,High
+T476463,544,Access Request,2024-09-12,2024-09-12,24,16,In Progress,Low
+T246594,630,Software Install,2024-01-18,2024-01-20,72,71,In Progress,Medium
+T528076,705,Access Request,2024-03-04,2024-03-05,48,44,Completed,Low
+T556705,538,Tech Support,2024-07-22,2024-07-24,72,69,Completed,Low
+T190471,1001,Tech Support,2024-04-07,2024-04-09,48,64,In Progress,Low
+T428366,501,Access Request,2024-03-27,2024-03-27,24,16,In Progress,Low
+T271908,1542,Access Request,2024-11-05,2024-11-06,24,36,In Progress,High
+T481693,434,System Bug,2024-03-22,2024-03-25,72,73,Completed,Low
+T396592,372,Software Install,2024-06-16,2024-06-18,48,58,In Progress,High
+T840125,21,System Bug,2024-06-07,2024-06-07,24,15,In Progress,Low
+T443278,1852,System Bug,2024-06-14,2024-06-17,72,82,Escalated,Medium
+T379604,1200,Access Request,2024-10-15,2024-10-18,72,92,In Progress,Low
+T928327,2032,Software Install,2024-08-01,2024-08-03,72,71,Completed,Medium
+T560368,1888,Software Install,2024-05-11,2024-05-12,24,29,Completed,Low
+T396749,692,Software Install,2024-08-26,2024-08-29,72,80,Escalated,Low
+T411626,803,Software Install,2024-05-12,2024-05-13,24,40,Completed,Low
+T367701,83,Access Request,2024-03-18,2024-03-20,48,63,Escalated,Low
+T214147,1954,Software Install,2024-09-07,2024-09-08,48,45,Escalated,High
+T181856,1013,System Bug,2024-05-02,2024-05-04,48,57,In Progress,High
+T388902,2061,System Bug,2024-02-14,2024-02-16,48,52,In Progress,Low
+T791434,940,Access Request,2024-11-24,2024-11-26,48,49,In Progress,Low
+T937919,2032,System Bug,2024-04-17,2024-04-19,48,52,In Progress,Low
+T480690,271,System Bug,2024-06-01,2024-06-02,48,40,In Progress,Low
+T392676,772,Tech Support,2024-04-11,2024-04-12,48,38,Completed,High
+T656877,2014,Software Install,2024-10-04,2024-10-06,72,71,In Progress,Medium
+T512875,332,Software Install,2024-11-25,2024-11-26,24,41,Completed,Low
+T634824,352,Tech Support,2024-08-20,2024-08-21,24,27,In Progress,High
+T919075,407,System Bug,2024-01-02,2024-01-04,48,63,In Progress,Low
+T896751,850,Access Request,2024-05-18,2024-05-18,24,15,In Progress,Low
+T796682,1847,Software Install,2024-09-27,2024-09-29,48,55,In Progress,Medium
+T311733,1158,System Bug,2024-12-11,2024-12-13,48,66,In Progress,High
+T873957,206,Software Install,2024-12-22,2024-12-23,24,38,In Progress,High
+T299321,305,Tech Support,2024-11-01,2024-11-04,72,91,In Progress,Low
+T457130,63,System Bug,2024-11-23,2024-11-25,48,57,In Progress,High
+T670139,362,Tech Support,2024-07-18,2024-07-19,24,33,Completed,Medium
+T298094,827,System Bug,2024-10-18,2024-10-20,48,51,In Progress,Low
+T839283,1083,Tech Support,2024-04-18,2024-04-20,48,62,Escalated,Low
+T362377,1558,Access Request,2024-02-02,2024-02-02,24,16,In Progress,Medium
+T599504,1191,Software Install,2024-09-28,2024-09-29,24,31,In Progress,Low
+T863460,1053,Software Install,2024-01-27,2024-01-28,48,42,In Progress,Low
+T731186,396,Software Install,2024-02-13,2024-02-16,72,73,In Progress,Low
+T185564,874,Access Request,2024-11-04,2024-11-05,48,45,Escalated,High
+T555437,634,Tech Support,2024-01-19,2024-01-21,48,57,In Progress,Low
+T578861,725,Tech Support,2024-08-26,2024-08-28,72,71,In Progress,Medium
+T455647,1852,Tech Support,2024-12-28,2024-12-31,72,92,Completed,Low
+T727766,1015,Software Install,2024-11-28,2024-11-29,24,33,In Progress,Low
+T981963,2,Software Install,2024-06-01,2024-06-01,24,21,In Progress,Low
+T955018,137,Access Request,2024-11-27,2024-11-28,48,41,In Progress,Low
+T193331,1062,Access Request,2024-03-13,2024-03-14,48,38,In Progress,Low
+T549259,1611,Tech Support,2024-10-05,2024-10-06,24,27,Completed,Medium
+T609726,227,Tech Support,2024-10-14,2024-10-16,48,66,In Progress,Medium
+T637342,1870,System Bug,2024-08-12,2024-08-15,72,80,In Progress,Low
+T874990,1121,System Bug,2024-04-03,2024-04-04,24,29,In Progress,Low
+T633791,918,Tech Support,2024-08-18,2024-08-21,72,91,Escalated,High
+T344575,98,Access Request,2024-07-27,2024-07-30,72,90,In Progress,Low
+T895947,461,Access Request,2024-09-21,2024-09-21,24,17,In Progress,Low
+T654864,671,System Bug,2024-08-21,2024-08-24,72,91,In Progress,Low
+T567945,256,Tech Support,2024-05-01,2024-05-04,72,87,Escalated,Medium
+T395752,1448,Software Install,2024-01-13,2024-01-14,24,33,In Progress,High
+T486155,426,Tech Support,2024-10-14,2024-10-14,24,20,In Progress,Low
+T224215,75,Tech Support,2024-04-25,2024-04-28,72,75,In Progress,Low
+T678798,70,Software Install,2024-08-04,2024-08-06,48,51,Completed,Medium
+T397529,462,Software Install,2024-02-12,2024-02-12,24,14,Escalated,Low
+T282024,1860,Tech Support,2024-01-01,2024-01-03,72,67,Completed,Low
+T307539,331,Software Install,2024-02-24,2024-02-25,24,34,In Progress,High
+T929349,386,Software Install,2024-06-11,2024-06-11,24,21,Completed,Low
+T374924,1892,Access Request,2024-10-13,2024-10-14,24,44,Escalated,Medium
+T367367,1116,System Bug,2024-07-08,2024-07-11,72,83,Escalated,Low
+T763754,64,Software Install,2024-09-26,2024-09-29,72,89,In Progress,Low
+T122394,1283,Access Request,2024-12-25,2024-12-27,48,63,Escalated,Medium
+T373328,73,System Bug,2024-03-19,2024-03-20,48,45,Completed,Medium
+T753793,1060,Access Request,2024-01-24,2024-01-25,48,45,Completed,Low
+T967562,1932,Software Install,2024-06-09,2024-06-10,24,35,In Progress,Low
+T652602,514,System Bug,2024-12-19,2024-12-21,72,62,Escalated,Medium
+T741994,1916,Software Install,2024-01-19,2024-01-22,72,87,In Progress,Medium
+T283444,63,Tech Support,2024-04-10,2024-04-11,24,31,In Progress,Low
+T114826,425,Tech Support,2024-03-26,2024-03-27,24,42,Escalated,High
+T938064,1073,System Bug,2024-11-04,2024-11-07,72,75,Escalated,Medium
+T475428,1693,Software Install,2024-10-25,2024-10-26,24,42,In Progress,Medium
+T363831,927,Tech Support,2024-10-10,2024-10-11,24,43,In Progress,Medium
+T946126,433,Tech Support,2024-01-03,2024-01-06,72,89,Escalated,Low
+T672217,1191,Tech Support,2024-10-19,2024-10-21,48,53,In Progress,Low
+T525396,1729,System Bug,2024-01-19,2024-01-20,24,27,Escalated,Low
+T992003,65,Tech Support,2024-08-03,2024-08-04,24,44,Escalated,Low
+T853863,1260,Access Request,2024-02-16,2024-02-19,72,87,Completed,Medium
+T649735,657,Access Request,2024-01-10,2024-01-10,24,15,In Progress,Medium
+T614829,716,Software Install,2024-02-03,2024-02-04,24,37,Completed,Low
+T442983,1971,Access Request,2024-03-16,2024-03-18,72,66,Escalated,Low
+T502758,159,Software Install,2024-04-15,2024-04-17,48,62,Escalated,High
+T620421,1689,Software Install,2024-08-24,2024-08-26,48,59,In Progress,Low
+T227355,1482,Software Install,2024-08-07,2024-08-09,48,48,In Progress,Low
+T602502,517,Access Request,2024-05-09,2024-05-10,24,43,In Progress,Medium
+T802327,161,Tech Support,2024-06-03,2024-06-05,72,67,Escalated,Low
+T691884,1132,Tech Support,2024-07-03,2024-07-05,72,71,Escalated,High
+T186480,655,Software Install,2024-10-02,2024-10-04,48,68,In Progress,Medium
+T740542,1671,System Bug,2024-04-08,2024-04-10,48,66,In Progress,High
+T941101,1960,Tech Support,2024-09-23,2024-09-23,24,21,In Progress,Low
+T650204,1161,Access Request,2024-08-18,2024-08-20,72,64,Completed,Low
+T913679,1513,Software Install,2024-01-05,2024-01-07,48,61,In Progress,Medium
+T717606,1883,Software Install,2024-12-13,2024-12-16,72,79,Completed,Low
+T620041,137,System Bug,2024-08-10,2024-08-11,48,47,In Progress,Low
+T447922,1344,Access Request,2024-11-25,2024-11-28,72,91,In Progress,Medium
+T920172,1937,Tech Support,2024-02-16,2024-02-18,48,68,Completed,Low
+T128451,705,Tech Support,2024-11-12,2024-11-12,24,19,In Progress,Low
+T442912,1126,Access Request,2024-04-25,2024-04-26,48,41,In Progress,Low
+T992493,380,Software Install,2024-08-13,2024-08-16,72,83,In Progress,Low
+T678182,741,Software Install,2024-03-27,2024-03-30,72,86,In Progress,Low
+T460462,1007,System Bug,2024-09-13,2024-09-14,48,38,Escalated,Low
+T396066,763,System Bug,2024-01-13,2024-01-15,48,57,Completed,Medium
+T449135,1949,System Bug,2024-11-22,2024-11-24,48,63,In Progress,Medium
+T488982,10,System Bug,2024-06-08,2024-06-11,72,91,In Progress,Medium
+T360882,1001,Software Install,2024-07-16,2024-07-17,24,34,In Progress,Low
+T976441,1767,Access Request,2024-06-07,2024-06-09,48,48,In Progress,High
+T119927,364,System Bug,2024-12-26,2024-12-27,48,38,Escalated,High
+T253679,96,Software Install,2024-10-20,2024-10-22,48,67,In Progress,Low
+T814961,495,Tech Support,2024-02-13,2024-02-16,72,92,In Progress,Medium
+T532165,1539,Software Install,2024-01-18,2024-01-19,48,38,In Progress,Low
+T349579,1940,Access Request,2024-05-28,2024-05-29,24,31,Escalated,Medium
+T971245,1513,System Bug,2024-05-17,2024-05-19,48,49,In Progress,High
+T649625,514,System Bug,2024-10-17,2024-10-19,48,49,Completed,Low
+T576501,206,Software Install,2024-03-24,2024-03-27,72,82,Completed,High
+T416919,743,Software Install,2024-11-16,2024-11-18,48,62,In Progress,Low
+T587103,1581,Software Install,2024-09-11,2024-09-14,72,77,In Progress,Medium
+T288851,1976,System Bug,2024-11-22,2024-11-24,48,66,Escalated,Low
+T202432,584,Access Request,2024-09-17,2024-09-20,72,73,In Progress,Low
+T981538,809,Access Request,2024-01-04,2024-01-07,72,79,In Progress,Medium
+T268979,804,Access Request,2024-11-22,2024-11-22,24,18,Completed,Low
+T177267,1402,System Bug,2024-11-18,2024-11-20,72,70,Completed,Low
+T901404,1803,Software Install,2024-07-13,2024-07-14,24,39,Completed,Medium
+T341754,2061,Tech Support,2024-11-02,2024-11-03,24,24,Escalated,Medium
+T643109,1074,Access Request,2024-07-05,2024-07-06,24,37,Completed,Low
+T437323,865,System Bug,2024-04-18,2024-04-20,48,65,Completed,Low
+T171652,1719,Tech Support,2024-12-01,2024-12-03,72,63,In Progress,High
+T453247,84,Tech Support,2024-08-18,2024-08-18,24,17,Completed,Low
+T921858,1721,Software Install,2024-09-08,2024-09-09,48,40,In Progress,Medium
+T725435,194,Tech Support,2024-11-08,2024-11-09,24,33,In Progress,High
+T397867,397,System Bug,2024-01-16,2024-01-18,48,61,In Progress,Medium
+T151886,39,Tech Support,2024-10-04,2024-10-06,48,57,Completed,Medium
+T419142,1703,Software Install,2024-06-12,2024-06-14,48,53,Escalated,Low
+T770305,752,Software Install,2024-07-20,2024-07-23,72,74,In Progress,High
+T384124,211,Software Install,2024-05-02,2024-05-03,24,44,Escalated,Medium
+T950180,605,Access Request,2024-02-02,2024-02-05,72,77,In Progress,Low
+T326411,1592,Tech Support,2024-04-20,2024-04-22,48,57,Escalated,Low
+T164420,1523,Access Request,2024-01-09,2024-01-11,48,64,Completed,Medium
+T731982,1552,Access Request,2024-02-22,2024-02-22,24,18,In Progress,Low
+T676297,1729,Software Install,2024-05-12,2024-05-15,72,81,Escalated,Low
+T785102,54,Tech Support,2024-11-11,2024-11-12,48,44,In Progress,Low
+T122710,277,Tech Support,2024-10-17,2024-10-20,72,87,In Progress,Low
+T664680,758,System Bug,2024-08-10,2024-08-11,24,40,In Progress,Low
+T421594,950,Access Request,2024-08-17,2024-08-19,72,69,In Progress,Medium
+T383944,1659,Software Install,2024-06-12,2024-06-13,24,25,Escalated,Low
+T144277,1301,System Bug,2024-06-26,2024-06-27,48,45,In Progress,High
+T675472,1402,Tech Support,2024-06-20,2024-06-20,24,22,Completed,Low
+T140141,1115,Access Request,2024-06-20,2024-06-21,24,39,In Progress,Medium
+T662643,837,Access Request,2024-06-20,2024-06-23,72,75,Escalated,High
+T191330,377,Software Install,2024-05-16,2024-05-19,72,84,In Progress,Low
+T594041,1308,System Bug,2024-01-05,2024-01-08,72,86,Completed,Medium
+T496539,1662,Access Request,2024-03-27,2024-03-28,24,29,Escalated,Low
+T471505,1654,Software Install,2024-01-08,2024-01-11,72,90,In Progress,Low
+T901525,894,Access Request,2024-03-19,2024-03-21,48,62,In Progress,Low
+T257961,1250,Access Request,2024-08-22,2024-08-22,24,19,Completed,High
+T430448,1786,System Bug,2024-04-25,2024-04-28,72,74,Escalated,Medium
+T127487,987,System Bug,2024-10-20,2024-10-22,48,63,Completed,Low
+T729623,1766,Access Request,2024-12-28,2024-12-29,24,32,In Progress,Low
+T363654,201,Access Request,2024-11-19,2024-11-22,72,88,Escalated,Low
+T307264,468,System Bug,2024-09-23,2024-09-23,24,22,In Progress,Low
+T419765,1621,Software Install,2024-06-06,2024-06-07,48,44,Completed,Medium
+T456001,1251,Tech Support,2024-08-24,2024-08-25,24,41,In Progress,Low
+T652846,1792,System Bug,2024-04-13,2024-04-15,48,67,Completed,Low
+T323593,80,Access Request,2024-02-11,2024-02-12,48,47,In Progress,Medium
+T941866,275,Tech Support,2024-09-10,2024-09-11,48,43,In Progress,Low
+T948671,1251,Software Install,2024-12-25,2024-12-27,48,52,Completed,Low
+T156244,102,Software Install,2024-01-18,2024-01-18,24,14,Escalated,Low
+T402180,1696,Access Request,2024-12-15,2024-12-17,48,55,Escalated,Low
+T515251,958,Software Install,2024-08-27,2024-08-28,24,40,In Progress,Medium
+T305049,1577,Access Request,2024-11-25,2024-11-26,24,25,Completed,High
+T582360,1837,System Bug,2024-07-08,2024-07-10,72,67,In Progress,High
+T827853,1195,Tech Support,2024-06-03,2024-06-04,24,34,Escalated,Medium
+T383566,1340,Tech Support,2024-06-28,2024-06-30,48,62,In Progress,Low
+T107344,171,Tech Support,2024-08-07,2024-08-08,24,25,In Progress,Medium
+T359727,1224,Software Install,2024-11-23,2024-11-24,24,24,In Progress,Medium
+T525816,284,System Bug,2024-12-01,2024-12-03,72,62,Escalated,Medium
+T560431,340,Tech Support,2024-12-16,2024-12-18,48,49,In Progress,Low
+T545240,1751,Access Request,2024-12-24,2024-12-27,72,80,Escalated,Low
+T261335,2003,Software Install,2024-06-12,2024-06-14,48,50,In Progress,Low
+T629186,1577,Software Install,2024-04-19,2024-04-20,24,28,In Progress,Low
+T294034,1696,System Bug,2024-05-03,2024-05-05,48,61,Escalated,Low
+T134582,75,System Bug,2024-12-03,2024-12-04,24,25,Completed,Medium
+T399072,630,Tech Support,2024-10-25,2024-10-26,24,31,In Progress,Low
+T782566,1421,Access Request,2024-02-03,2024-02-05,48,56,In Progress,Low
+T531295,1158,Tech Support,2024-11-28,2024-11-30,48,49,In Progress,Low
+T680468,834,System Bug,2024-05-13,2024-05-15,48,49,Completed,Medium
+T926478,1265,Access Request,2024-07-19,2024-07-20,24,44,Escalated,Medium
+T960424,1719,Access Request,2024-08-10,2024-08-13,72,89,Completed,Low
+T431369,137,Access Request,2024-11-20,2024-11-21,24,27,Escalated,Medium
+T697198,1013,Tech Support,2024-04-20,2024-04-22,48,56,In Progress,High
+T916901,1981,Software Install,2024-12-12,2024-12-14,72,68,In Progress,Low
+T507138,1656,System Bug,2024-02-25,2024-02-27,72,68,Completed,Low
+T757356,1525,Access Request,2024-10-11,2024-10-12,24,27,Escalated,Low
+T337915,1638,Software Install,2024-04-07,2024-04-08,24,31,Completed,Medium
+T272550,1251,Access Request,2024-08-17,2024-08-19,48,57,Escalated,Low
+T654242,1350,System Bug,2024-04-07,2024-04-10,72,78,In Progress,Low
+T716918,226,Access Request,2024-06-25,2024-06-27,72,70,Escalated,Low
+T608274,377,Access Request,2024-09-28,2024-09-30,48,56,In Progress,Medium
+T532012,239,Software Install,2024-03-22,2024-03-23,24,26,In Progress,Low
+T535498,1484,Software Install,2024-07-03,2024-07-05,48,50,In Progress,High
+T854948,1026,Software Install,2024-04-23,2024-04-24,24,35,Completed,Low
+T558026,2032,Tech Support,2024-08-18,2024-08-19,24,32,In Progress,Low
+T204062,2008,System Bug,2024-12-08,2024-12-09,24,26,Completed,Low
+T822073,1809,Software Install,2024-12-27,2024-12-29,72,62,Completed,Low
+T206040,2052,System Bug,2024-03-17,2024-03-17,24,19,Completed,Medium
+T728308,1196,Access Request,2024-11-06,2024-11-07,24,25,Escalated,Low
+T168602,1609,Access Request,2024-01-01,2024-01-03,72,63,Completed,Low
+T285500,16,Tech Support,2024-08-18,2024-08-21,72,91,In Progress,Low
+T277830,834,System Bug,2024-10-17,2024-10-19,72,69,Escalated,Medium
+T906311,575,Tech Support,2024-07-16,2024-07-17,24,25,In Progress,Low
+T254693,45,System Bug,2024-04-14,2024-04-17,72,86,Escalated,Low
+T896491,26,Tech Support,2024-05-22,2024-05-25,72,78,In Progress,Low
+T611886,638,System Bug,2024-12-23,2024-12-26,72,86,In Progress,Medium
+T137677,958,Access Request,2024-10-20,2024-10-22,48,57,Escalated,Medium
+T785995,1193,System Bug,2024-11-19,2024-11-20,24,43,In Progress,Medium
+T440837,882,Access Request,2024-08-13,2024-08-14,24,32,In Progress,Low
+T655810,1693,Tech Support,2024-08-12,2024-08-13,24,40,Completed,Low
+T928957,809,Software Install,2024-10-20,2024-10-21,24,26,Completed,Low
+T237055,1441,System Bug,2024-03-17,2024-03-20,72,90,Escalated,Medium
+T582037,223,Tech Support,2024-04-17,2024-04-18,48,44,In Progress,Medium
+T363261,538,Access Request,2024-11-12,2024-11-14,48,51,Escalated,Medium
+T314222,1082,System Bug,2024-03-24,2024-03-26,48,48,Completed,Low
+T357510,1675,System Bug,2024-07-10,2024-07-11,24,31,Escalated,High
+T812043,412,Access Request,2024-11-03,2024-11-03,24,20,Escalated,High
+T482662,1807,Tech Support,2024-09-20,2024-09-21,48,42,In Progress,Low
+T200134,1256,Tech Support,2024-02-03,2024-02-06,72,77,In Progress,Medium
+T807739,2015,Access Request,2024-12-14,2024-12-15,24,33,Escalated,High
+T266748,744,System Bug,2024-07-21,2024-07-22,48,44,In Progress,High
+T775214,1866,Access Request,2024-08-03,2024-08-06,72,78,In Progress,Low
+T795640,940,Tech Support,2024-10-22,2024-10-25,72,84,In Progress,Low
+T887513,171,Tech Support,2024-02-25,2024-02-27,72,70,In Progress,Medium
+T725461,468,Access Request,2024-09-25,2024-09-26,24,24,In Progress,High
+T142582,15,System Bug,2024-07-03,2024-07-05,72,62,In Progress,Low
+T572748,2025,Tech Support,2024-08-12,2024-08-15,72,77,In Progress,High
+T157926,1966,System Bug,2024-12-11,2024-12-12,48,44,In Progress,Low
+T449884,526,Tech Support,2024-07-03,2024-07-05,72,69,In Progress,Low
+T587886,1043,Access Request,2024-03-11,2024-03-12,24,44,Completed,Low
+T301788,1120,Tech Support,2024-11-05,2024-11-07,48,64,In Progress,High
+T362439,1712,Software Install,2024-02-04,2024-02-07,72,87,Escalated,Low
+T425197,1148,Software Install,2024-05-01,2024-05-03,48,49,Escalated,Low
+T484676,309,Tech Support,2024-01-07,2024-01-08,24,24,In Progress,Medium
+T592016,1471,Software Install,2024-05-20,2024-05-21,24,29,Escalated,Medium
+T802974,227,Software Install,2024-06-10,2024-06-12,48,57,Completed,Low
+T665705,374,Tech Support,2024-05-07,2024-05-09,72,62,In Progress,Low
+T457329,194,Software Install,2024-05-18,2024-05-21,72,79,In Progress,Low
+T228326,2007,Access Request,2024-12-20,2024-12-21,24,38,Escalated,High
+T886538,101,Software Install,2024-05-11,2024-05-13,48,56,In Progress,Medium
+T333036,1893,Software Install,2024-10-11,2024-10-11,24,22,Escalated,Low
+T218381,1107,Access Request,2024-03-17,2024-03-18,48,44,Escalated,Medium
+T345625,36,Software Install,2024-08-23,2024-08-24,24,25,In Progress,Low
+T349370,2003,System Bug,2024-12-11,2024-12-14,72,84,Escalated,Low
+T791588,1693,Software Install,2024-12-20,2024-12-23,72,76,In Progress,High
+T245679,529,Software Install,2024-09-16,2024-09-18,48,56,Completed,Low
+T417880,1772,Software Install,2024-04-20,2024-04-21,24,29,In Progress,Low
+T254748,1790,Tech Support,2024-05-12,2024-05-13,24,31,In Progress,Low
+T364859,838,Tech Support,2024-10-06,2024-10-06,24,20,In Progress,Low
+T330832,342,Tech Support,2024-10-04,2024-10-05,24,32,In Progress,Low
+T731885,355,Software Install,2024-05-20,2024-05-20,24,21,In Progress,Low
+T854473,1682,Access Request,2024-01-16,2024-01-18,48,59,Escalated,Low
+T688009,1664,Tech Support,2024-08-22,2024-08-24,48,50,Escalated,High
+T585262,1083,Software Install,2024-05-28,2024-05-31,72,77,Escalated,Low
+T102465,274,Tech Support,2024-05-07,2024-05-09,48,58,In Progress,Low
+T546762,1255,Tech Support,2024-05-07,2024-05-10,72,83,Escalated,Low
+T823227,1804,Access Request,2024-01-27,2024-01-27,24,16,In Progress,Medium
+T478807,530,Tech Support,2024-06-07,2024-06-08,24,39,Escalated,Low
+T266062,1506,Software Install,2024-06-10,2024-06-11,24,31,In Progress,Low
+T364801,1543,System Bug,2024-05-14,2024-05-15,48,45,In Progress,Medium
+T489213,1618,Access Request,2024-04-08,2024-04-09,24,24,In Progress,Low
+T700704,1878,Access Request,2024-12-13,2024-12-14,24,31,In Progress,High
+T189568,117,System Bug,2024-12-02,2024-12-03,24,41,Escalated,Low
+T878205,171,System Bug,2024-12-24,2024-12-26,48,56,In Progress,Low
+T391626,1185,System Bug,2024-05-08,2024-05-09,48,45,In Progress,Low
+T468237,381,Software Install,2024-10-03,2024-10-05,48,64,In Progress,Low
+T723858,815,Tech Support,2024-04-02,2024-04-04,72,68,Escalated,Medium
+T755597,2009,Tech Support,2024-07-08,2024-07-11,72,89,Escalated,Low
+T350082,1184,Access Request,2024-06-17,2024-06-17,24,19,Escalated,Low
+T498886,1546,Tech Support,2024-03-22,2024-03-22,24,18,In Progress,Medium
+T831930,882,Software Install,2024-02-25,2024-02-26,24,39,Completed,High
+T900716,772,Software Install,2024-03-27,2024-03-29,48,57,Completed,Low
+T965476,428,System Bug,2024-03-11,2024-03-14,72,91,In Progress,Low
+T179124,1480,System Bug,2024-11-11,2024-11-12,48,44,In Progress,High
+T818764,1577,Access Request,2024-01-14,2024-01-16,48,55,Escalated,Low
+T625468,1766,Tech Support,2024-05-23,2024-05-25,48,51,In Progress,Medium
+T287538,1374,Access Request,2024-11-07,2024-11-08,24,36,Escalated,Medium
+T227894,1012,System Bug,2024-07-28,2024-07-30,48,51,In Progress,Low
+T599917,98,Software Install,2024-05-16,2024-05-19,72,92,In Progress,High
+T707883,1770,Tech Support,2024-04-19,2024-04-20,24,40,In Progress,High
+T527576,201,Tech Support,2024-01-22,2024-01-23,48,45,Escalated,High
+T551085,1751,Software Install,2024-01-08,2024-01-10,48,53,In Progress,Medium
+T255394,1242,Access Request,2024-04-27,2024-04-29,72,71,In Progress,Medium
+T713947,440,System Bug,2024-01-24,2024-01-24,24,20,Escalated,Medium
+T185138,46,Tech Support,2024-12-17,2024-12-18,24,44,In Progress,Low
+T576802,764,Tech Support,2024-12-16,2024-12-17,24,27,In Progress,High
+T569589,525,System Bug,2024-10-17,2024-10-20,72,90,Completed,High
+T461773,2027,Access Request,2024-10-07,2024-10-08,24,27,In Progress,Low
+T668842,1542,Tech Support,2024-01-05,2024-01-06,24,34,In Progress,Low
+T924647,762,System Bug,2024-07-09,2024-07-11,48,49,Escalated,Low
+T254836,1074,Software Install,2024-08-12,2024-08-15,72,82,Completed,Medium
+T457564,497,Software Install,2024-03-07,2024-03-07,24,21,In Progress,Low
+T998463,1766,Access Request,2024-02-02,2024-02-04,48,60,In Progress,Low
+T612397,1118,Software Install,2024-03-20,2024-03-21,24,37,In Progress,Low
+T312719,1719,Access Request,2024-05-08,2024-05-09,24,29,In Progress,High
+T157545,1712,Tech Support,2024-09-18,2024-09-19,24,25,In Progress,Medium
+T103326,483,Tech Support,2024-06-12,2024-06-15,72,88,Completed,Medium
+T141775,132,System Bug,2024-06-02,2024-06-02,24,19,In Progress,Medium
+T388409,305,Access Request,2024-05-06,2024-05-08,48,65,In Progress,Medium
+T186155,1576,System Bug,2024-05-05,2024-05-08,72,92,Escalated,High
+T673515,1025,System Bug,2024-06-02,2024-06-05,72,87,Completed,Low
+T646101,700,Access Request,2024-02-09,2024-02-10,24,31,Completed,High
+T218197,1184,System Bug,2024-10-13,2024-10-14,24,33,In Progress,Low
+T913359,1954,System Bug,2024-02-22,2024-02-24,48,55,In Progress,Medium
+T648665,1198,System Bug,2024-01-18,2024-01-20,48,61,In Progress,Low
+T792227,258,Software Install,2024-03-06,2024-03-07,24,37,Escalated,Low
+T294244,923,System Bug,2024-11-26,2024-11-29,72,87,Escalated,Low
+T136769,384,Tech Support,2024-12-06,2024-12-09,72,78,In Progress,Low
+T998547,875,Software Install,2024-03-07,2024-03-10,72,84,In Progress,High
+T553640,274,Tech Support,2024-03-12,2024-03-13,24,31,In Progress,Medium
+T167905,304,Access Request,2024-12-06,2024-12-08,72,68,In Progress,Low
+T134170,1248,System Bug,2024-02-07,2024-02-08,24,28,Completed,Low
+T395132,1258,Tech Support,2024-05-22,2024-05-24,48,50,In Progress,Low
+T230764,491,System Bug,2024-12-02,2024-12-04,48,62,Completed,Low
+T225084,1802,Access Request,2024-08-18,2024-08-20,72,71,Completed,High
+T226219,101,Software Install,2024-04-26,2024-04-27,24,39,Escalated,High
+T422787,1374,Access Request,2024-08-16,2024-08-17,24,24,Escalated,Medium
+T102974,1822,Tech Support,2024-10-15,2024-10-18,72,74,Completed,Low
+T397631,374,Access Request,2024-05-02,2024-05-04,48,58,In Progress,High
+T427472,828,Software Install,2024-07-27,2024-07-29,72,62,In Progress,High
+T157600,1564,Access Request,2024-10-23,2024-10-25,72,71,In Progress,Medium
+T735688,425,Access Request,2024-10-27,2024-10-30,72,89,Completed,Low
+T934543,1999,Software Install,2024-04-11,2024-04-12,48,42,In Progress,Low
+T955435,22,Access Request,2024-07-13,2024-07-15,72,66,Escalated,Medium
+T221312,623,Tech Support,2024-03-14,2024-03-15,48,38,Escalated,High
+T302850,7,Software Install,2024-01-10,2024-01-13,72,85,In Progress,Low
+T712812,54,Tech Support,2024-09-05,2024-09-07,48,54,In Progress,Low
+T180542,1013,System Bug,2024-11-09,2024-11-11,48,64,In Progress,Low
+T787822,1881,System Bug,2024-02-17,2024-02-18,24,24,Completed,High
+T797532,171,Tech Support,2024-07-07,2024-07-08,24,32,In Progress,Low
+T695468,231,Software Install,2024-12-26,2024-12-27,48,46,In Progress,Low
+T187101,1225,Tech Support,2024-04-17,2024-04-20,72,78,In Progress,Low
+T852387,2038,Access Request,2024-12-26,2024-12-27,24,40,In Progress,Low
+T307555,639,Access Request,2024-07-03,2024-07-06,72,88,Escalated,High
+T820934,543,Software Install,2024-05-06,2024-05-06,24,16,Escalated,Low
+T925310,1084,System Bug,2024-04-24,2024-04-25,48,41,Completed,Low
+T779138,224,Access Request,2024-06-19,2024-06-20,24,44,In Progress,High
+T706404,1411,System Bug,2024-07-05,2024-07-06,24,30,Completed,Low
+T456390,1885,Tech Support,2024-04-23,2024-04-25,72,71,Completed,Medium
+T670482,1005,Access Request,2024-04-18,2024-04-21,72,83,Completed,Medium
+T933514,1515,Access Request,2024-01-09,2024-01-09,24,15,In Progress,Medium
+T171982,252,Software Install,2024-06-06,2024-06-07,24,35,In Progress,High
+T563690,1605,System Bug,2024-06-13,2024-06-15,72,62,Completed,Low
+T193315,531,System Bug,2024-06-20,2024-06-23,72,76,In Progress,High
+T689587,1200,Access Request,2024-02-17,2024-02-18,24,26,In Progress,Low
+T715033,31,Tech Support,2024-10-03,2024-10-03,24,20,Escalated,High
+T991174,483,Software Install,2024-08-22,2024-08-25,72,86,In Progress,Low
+T634210,296,Tech Support,2024-03-11,2024-03-14,72,85,In Progress,Low
+T933627,1826,Tech Support,2024-10-26,2024-10-28,72,71,Escalated,High
+T898745,1131,Access Request,2024-11-11,2024-11-13,48,52,In Progress,Low
+T491188,1525,Software Install,2024-05-13,2024-05-14,48,41,In Progress,Low
+T655372,820,Software Install,2024-05-11,2024-05-12,24,36,In Progress,High
+T163721,88,Software Install,2024-02-14,2024-02-16,48,53,Escalated,Low
+T243859,1336,Software Install,2024-04-22,2024-04-23,24,38,In Progress,Medium
+T531140,806,Access Request,2024-11-10,2024-11-12,48,67,In Progress,Low
+T235642,465,Software Install,2024-09-12,2024-09-14,48,53,Escalated,Low
+T509710,385,Software Install,2024-07-21,2024-07-24,72,92,In Progress,Low
+T160209,742,Software Install,2024-02-10,2024-02-10,24,14,Escalated,Low
+T340631,417,Tech Support,2024-06-01,2024-06-01,24,23,In Progress,Medium
+T894644,1599,Tech Support,2024-09-04,2024-09-06,72,67,Escalated,Medium
+T632913,525,Access Request,2024-06-17,2024-06-19,48,65,In Progress,Low
+T346829,2062,System Bug,2024-07-03,2024-07-05,72,65,In Progress,Low
+T754247,2054,System Bug,2024-02-04,2024-02-05,24,26,In Progress,Low
+T930865,1633,Tech Support,2024-06-11,2024-06-13,48,49,Completed,Low
+T651698,46,Software Install,2024-09-09,2024-09-11,72,68,In Progress,Low
+T536003,261,System Bug,2024-10-13,2024-10-14,48,39,In Progress,Medium
+T854843,31,Access Request,2024-01-07,2024-01-09,72,67,In Progress,Low
+T415718,548,Tech Support,2024-04-28,2024-04-30,48,54,Completed,Medium
+T105529,1581,Access Request,2024-04-05,2024-04-07,48,48,Completed,Low
+T468663,2052,System Bug,2024-02-28,2024-03-02,72,89,In Progress,High
+T783423,1032,Software Install,2024-02-14,2024-02-17,72,79,In Progress,Low
+T108237,7,Software Install,2024-01-07,2024-01-08,24,32,Escalated,Medium
+T859391,881,System Bug,2024-01-10,2024-01-12,48,66,In Progress,High
+T625051,526,Access Request,2024-12-25,2024-12-27,48,51,In Progress,Medium
+T819929,848,Software Install,2024-04-21,2024-04-22,24,24,Escalated,High
+T199994,1285,Access Request,2024-07-16,2024-07-18,48,51,In Progress,Low
+T774476,791,Tech Support,2024-10-26,2024-10-28,48,63,In Progress,Medium
+T856893,574,Software Install,2024-08-18,2024-08-18,24,20,Escalated,Low
+T512136,700,System Bug,2024-05-09,2024-05-10,24,35,In Progress,High
+T812466,397,Tech Support,2024-01-18,2024-01-20,48,50,In Progress,Medium
+T447294,844,Access Request,2024-09-23,2024-09-25,48,60,In Progress,High
+T604382,372,Access Request,2024-01-17,2024-01-19,48,61,In Progress,Medium
+T614392,1202,System Bug,2024-03-01,2024-03-01,24,18,In Progress,Low
+T718993,351,System Bug,2024-06-24,2024-06-26,72,63,In Progress,Medium
+T649999,1515,System Bug,2024-04-17,2024-04-18,24,41,In Progress,Low
+T613427,455,System Bug,2024-06-18,2024-06-18,24,22,In Progress,Medium
+T854159,1244,Software Install,2024-03-05,2024-03-06,48,44,In Progress,High
+T745221,1177,Tech Support,2024-06-26,2024-06-27,24,40,In Progress,High
+T262744,577,Software Install,2024-12-15,2024-12-17,72,67,Completed,High
+T490045,1108,System Bug,2024-09-14,2024-09-14,24,18,In Progress,Low
+T274222,924,System Bug,2024-05-27,2024-05-29,48,67,In Progress,Medium
+T929482,1630,Access Request,2024-02-19,2024-02-21,48,60,In Progress,Low
+T107179,1671,Tech Support,2024-10-26,2024-10-28,48,56,In Progress,Low
+T329767,1709,Access Request,2024-11-28,2024-11-28,24,21,In Progress,Low
+T393901,1922,Access Request,2024-06-02,2024-06-02,24,22,Completed,Medium
+T882660,518,Tech Support,2024-08-20,2024-08-22,72,68,In Progress,Medium
+T778272,692,System Bug,2024-07-04,2024-07-04,24,22,Completed,Low
+T161368,442,Software Install,2024-02-08,2024-02-09,24,34,In Progress,Medium
+T274820,1886,System Bug,2024-01-12,2024-01-14,48,66,Escalated,Medium
+T266611,1609,System Bug,2024-07-03,2024-07-06,72,73,In Progress,Medium
+T127829,1675,Access Request,2024-06-27,2024-06-28,24,30,Escalated,Medium
+T884148,428,Access Request,2024-08-01,2024-08-02,24,28,In Progress,Medium
+T810828,1545,Access Request,2024-11-19,2024-11-21,48,63,Completed,Low
+T286495,1308,System Bug,2024-03-05,2024-03-06,24,30,In Progress,Low
+T603951,586,System Bug,2024-12-09,2024-12-12,72,78,Completed,Low
+T534581,1949,Software Install,2024-11-26,2024-11-27,24,40,In Progress,Low
+T865818,1871,System Bug,2024-09-04,2024-09-04,24,20,In Progress,Low
+T407830,200,System Bug,2024-04-01,2024-04-04,72,74,In Progress,Medium
+T772468,1193,System Bug,2024-08-26,2024-08-28,72,70,Escalated,Medium
+T227923,491,Tech Support,2024-02-05,2024-02-07,72,71,In Progress,Medium
+T280319,137,Software Install,2024-10-19,2024-10-22,72,73,In Progress,Low
+T253090,287,System Bug,2024-02-22,2024-02-23,48,38,Escalated,Low
+T839149,1666,Software Install,2024-04-23,2024-04-24,24,38,Escalated,Medium
+T616395,804,Tech Support,2024-04-18,2024-04-19,48,41,Completed,Medium
+T870882,1873,System Bug,2024-08-13,2024-08-13,24,20,In Progress,Low
+T156632,1085,Software Install,2024-11-21,2024-11-23,72,66,In Progress,Low
+T686113,1728,System Bug,2024-02-20,2024-02-21,24,31,Escalated,High
+T556319,872,Tech Support,2024-09-22,2024-09-25,72,92,In Progress,Low
+T183093,1062,Tech Support,2024-11-28,2024-11-29,24,39,Completed,Low
+T790813,1081,Software Install,2024-02-09,2024-02-11,72,68,Escalated,Low
+T464492,1916,Software Install,2024-12-01,2024-12-02,48,43,In Progress,Medium
+T621824,999,Software Install,2024-10-09,2024-10-11,72,70,In Progress,Low
+T486308,1956,System Bug,2024-04-22,2024-04-24,48,50,In Progress,Low
+T658249,1916,Tech Support,2024-01-04,2024-01-06,48,58,Completed,Low
+T950761,270,Tech Support,2024-02-04,2024-02-06,72,70,In Progress,Low
+T129859,1597,System Bug,2024-08-01,2024-08-03,72,70,In Progress,Low
+T236325,1985,Tech Support,2024-01-19,2024-01-22,72,79,In Progress,Low
+T183310,1892,System Bug,2024-05-17,2024-05-18,48,39,Completed,Medium
+T232108,549,Software Install,2024-11-16,2024-11-18,48,56,In Progress,High
+T196423,347,System Bug,2024-03-23,2024-03-26,72,90,In Progress,Low
+T984351,1628,Access Request,2024-04-24,2024-04-26,48,57,In Progress,Low
+T818850,271,Tech Support,2024-10-11,2024-10-12,24,28,In Progress,Low
+T531067,1971,System Bug,2024-03-14,2024-03-16,48,67,Escalated,Low
+T602187,337,Software Install,2024-12-09,2024-12-11,48,52,Escalated,Medium
+T248379,1737,Software Install,2024-10-04,2024-10-05,48,42,In Progress,Low
+T149721,1496,Software Install,2024-08-25,2024-08-25,24,19,In Progress,Low
+T482080,391,Tech Support,2024-08-04,2024-08-06,72,70,In Progress,High
+T954331,221,Access Request,2024-12-27,2024-12-29,48,56,Escalated,High
+T888250,408,Tech Support,2024-01-06,2024-01-07,24,42,Completed,Low
+T763720,811,Software Install,2024-01-20,2024-01-22,48,50,In Progress,Medium
+T725342,700,Tech Support,2024-08-11,2024-08-12,24,33,In Progress,Low
+T188844,811,Tech Support,2024-12-23,2024-12-26,72,83,Completed,Low
+T685944,1257,Access Request,2024-11-18,2024-11-21,72,72,In Progress,Low
+T738086,1640,Software Install,2024-12-12,2024-12-13,24,27,Completed,Low
+T413463,1286,Software Install,2024-08-04,2024-08-07,72,89,In Progress,Low
+T820907,1083,Access Request,2024-07-28,2024-07-31,72,80,In Progress,Low
+T933010,161,Software Install,2024-10-09,2024-10-11,48,50,Completed,Medium
+T653492,460,Access Request,2024-05-23,2024-05-23,24,16,In Progress,Low
+T172785,815,Software Install,2024-03-06,2024-03-08,48,49,In Progress,Medium
+T483743,1868,Software Install,2024-05-13,2024-05-14,24,37,In Progress,High
+T809079,757,Access Request,2024-04-10,2024-04-12,48,67,Escalated,Medium
+T366485,1599,System Bug,2024-04-02,2024-04-05,72,78,Completed,Low
+T856142,431,Software Install,2024-08-07,2024-08-09,48,66,Escalated,Medium
+T801138,1822,Tech Support,2024-10-27,2024-10-29,48,52,Completed,High
+T791987,246,Access Request,2024-11-24,2024-11-27,72,84,In Progress,Medium
+T971552,934,Software Install,2024-06-20,2024-06-21,24,40,Escalated,High
+T323031,1002,Access Request,2024-02-22,2024-02-23,24,25,In Progress,Low
+T612284,2017,Software Install,2024-10-05,2024-10-08,72,87,In Progress,High
+T299746,197,System Bug,2024-04-08,2024-04-09,48,47,Completed,High
+T463869,1200,Software Install,2024-07-04,2024-07-04,24,22,In Progress,High
+T715173,395,Access Request,2024-02-04,2024-02-06,48,66,In Progress,Low
+T937539,1799,Access Request,2024-08-03,2024-08-04,24,43,Escalated,Low
+T326398,1383,System Bug,2024-09-13,2024-09-14,24,41,In Progress,High
+T890948,297,Tech Support,2024-09-15,2024-09-17,72,63,Completed,Low
+T266852,1770,System Bug,2024-10-08,2024-10-11,72,76,In Progress,Medium
+T838722,828,Access Request,2024-10-18,2024-10-19,24,41,In Progress,Low
+T662781,932,System Bug,2024-02-03,2024-02-06,72,79,Escalated,High
+T147920,934,Tech Support,2024-11-07,2024-11-09,48,68,Escalated,Low
+T569625,394,Access Request,2024-04-27,2024-04-30,72,89,In Progress,Low
+T522579,1198,Access Request,2024-12-12,2024-12-12,24,22,Completed,Medium
+T270771,530,Tech Support,2024-09-14,2024-09-16,48,68,In Progress,Medium
+T630388,1558,Tech Support,2024-08-13,2024-08-14,24,32,In Progress,Medium
+T851535,223,Software Install,2024-07-15,2024-07-15,24,16,In Progress,Low
+T559429,1703,Access Request,2024-05-07,2024-05-09,48,61,Completed,Medium
+T976240,1309,System Bug,2024-02-21,2024-02-23,48,66,Completed,Low
+T823642,40,System Bug,2024-03-11,2024-03-13,72,67,In Progress,Low
+T897040,101,System Bug,2024-01-20,2024-01-21,48,40,Completed,Low
+T959437,112,Access Request,2024-05-23,2024-05-26,72,87,In Progress,High
+T758789,1594,System Bug,2024-08-06,2024-08-09,72,86,Escalated,Low
+T269438,1955,Access Request,2024-03-16,2024-03-18,72,62,In Progress,Low
+T705728,804,System Bug,2024-06-22,2024-06-25,72,83,Completed,Low
+T644455,960,Tech Support,2024-02-12,2024-02-14,48,66,Completed,High
+T249155,793,Software Install,2024-11-17,2024-11-20,72,86,Completed,Medium
+T709333,911,System Bug,2024-07-06,2024-07-08,48,50,In Progress,Low
+T475622,1564,System Bug,2024-10-22,2024-10-23,24,31,In Progress,Low
+T152591,780,Software Install,2024-05-05,2024-05-06,24,25,In Progress,Low
+T475731,1079,Tech Support,2024-09-18,2024-09-20,48,58,Escalated,Low
+T947058,844,Tech Support,2024-07-15,2024-07-18,72,82,Escalated,Low
+T647492,2031,Access Request,2024-04-22,2024-04-23,24,38,Completed,High
+T492979,716,Software Install,2024-09-01,2024-09-02,48,44,Completed,Low
+T638492,22,Tech Support,2024-02-26,2024-02-27,24,34,In Progress,Low
+T465001,1735,Access Request,2024-04-09,2024-04-12,72,76,In Progress,High
+T678736,143,Tech Support,2024-08-17,2024-08-20,72,75,In Progress,Low
+T338351,1012,Tech Support,2024-01-07,2024-01-10,72,90,Completed,Medium
+T576960,98,Tech Support,2024-11-07,2024-11-09,48,50,Escalated,Low
+T465684,1782,Tech Support,2024-11-22,2024-11-24,72,63,Escalated,High
+T281990,471,Tech Support,2024-10-05,2024-10-06,48,47,In Progress,Low
+T384025,1703,Software Install,2024-11-24,2024-11-27,72,87,In Progress,Medium
+T894070,347,Access Request,2024-03-25,2024-03-26,48,44,In Progress,Medium
+T254784,825,System Bug,2024-10-11,2024-10-13,48,55,In Progress,Medium
+T545185,1662,Access Request,2024-11-08,2024-11-09,24,38,In Progress,Low
+T645072,1306,System Bug,2024-05-09,2024-05-11,72,67,In Progress,Medium
+T489654,1415,Software Install,2024-06-10,2024-06-10,24,15,In Progress,Low
+T437526,359,Access Request,2024-02-16,2024-02-17,24,24,Completed,Low
+T217964,1377,Software Install,2024-07-04,2024-07-07,72,73,In Progress,Medium
+T134079,575,System Bug,2024-02-01,2024-02-04,72,91,Completed,Low
+T438733,1553,Tech Support,2024-12-12,2024-12-14,48,56,In Progress,Medium
+T667936,197,Software Install,2024-07-23,2024-07-25,72,65,Completed,Low
+T343169,1755,Access Request,2024-02-23,2024-02-26,72,90,In Progress,Medium
+T849053,1180,Access Request,2024-10-21,2024-10-22,24,26,Completed,High
+T365318,1871,Software Install,2024-06-13,2024-06-14,24,34,In Progress,Low
+T712255,1106,System Bug,2024-10-27,2024-10-27,24,19,Escalated,Low
+T638800,1286,System Bug,2024-02-16,2024-02-18,72,70,In Progress,High
+T952580,799,Software Install,2024-07-04,2024-07-06,48,55,In Progress,Low
+T352865,451,System Bug,2024-06-26,2024-06-28,48,48,Completed,Medium
+T331767,655,Software Install,2024-07-21,2024-07-24,72,87,In Progress,Medium
+T346328,1184,Access Request,2024-02-27,2024-02-28,24,39,Escalated,Medium
+T421654,724,System Bug,2024-07-10,2024-07-12,48,59,In Progress,Low
+T795469,1549,Tech Support,2024-04-28,2024-04-29,24,39,Completed,Low
+T423191,987,System Bug,2024-02-19,2024-02-20,48,38,In Progress,High
+T209262,700,Access Request,2024-01-16,2024-01-17,48,46,Completed,Low
+T610770,518,Access Request,2024-02-13,2024-02-14,24,43,Escalated,Low
+T271072,2022,Tech Support,2024-06-17,2024-06-17,24,21,Completed,Medium
+T871350,258,System Bug,2024-10-05,2024-10-08,72,74,Completed,High
+T405297,1053,System Bug,2024-12-10,2024-12-12,48,64,Completed,Medium
+T317466,901,Tech Support,2024-12-03,2024-12-05,48,48,Completed,Low
+T843198,1242,System Bug,2024-05-20,2024-05-23,72,91,In Progress,Medium
+T143464,1296,Tech Support,2024-07-21,2024-07-22,24,38,In Progress,Low
+T751206,1960,System Bug,2024-08-10,2024-08-12,48,56,Completed,Low
+T812420,155,Access Request,2024-01-15,2024-01-18,72,82,In Progress,Low
+T927290,1911,Tech Support,2024-04-27,2024-04-28,24,35,In Progress,High
+T978052,675,Access Request,2024-06-20,2024-06-22,48,50,In Progress,High
+T558718,403,Software Install,2024-05-10,2024-05-11,24,30,Escalated,High
+T630293,1184,Access Request,2024-06-05,2024-06-06,24,42,In Progress,Low
+T919853,1150,Access Request,2024-05-23,2024-05-25,48,57,Escalated,Medium
+T707658,460,Access Request,2024-12-02,2024-12-03,48,40,Escalated,Medium
+T950890,442,System Bug,2024-01-11,2024-01-14,72,80,Completed,Medium
+T927602,1180,Software Install,2024-04-08,2024-04-11,72,82,Escalated,Low
+T699859,141,Tech Support,2024-06-02,2024-06-05,72,76,In Progress,Low
+T543995,832,Tech Support,2024-10-06,2024-10-07,48,38,In Progress,Low
+T690476,940,Tech Support,2024-08-09,2024-08-10,24,35,Completed,Low
+T599145,894,System Bug,2024-05-09,2024-05-10,24,31,In Progress,Medium
+T409787,515,Tech Support,2024-08-26,2024-08-27,48,46,In Progress,Low
+T525127,393,Access Request,2024-11-18,2024-11-18,24,15,Completed,Low
+T864401,1558,Access Request,2024-12-03,2024-12-04,24,43,In Progress,Medium
+T970076,1389,System Bug,2024-09-21,2024-09-23,48,59,In Progress,Low
+T139227,1340,Software Install,2024-06-12,2024-06-15,72,76,In Progress,High
+T280640,199,Access Request,2024-12-01,2024-12-03,48,59,In Progress,Medium
+T994462,547,Access Request,2024-03-14,2024-03-16,48,68,In Progress,Low
+T700595,1193,Software Install,2024-12-04,2024-12-07,72,91,In Progress,Low
+T524401,1839,Tech Support,2024-01-07,2024-01-10,72,74,In Progress,Medium
+T290899,33,Software Install,2024-04-04,2024-04-05,24,25,Escalated,Medium
+T188537,930,Access Request,2024-03-24,2024-03-24,24,18,Escalated,Low
+T417962,1771,Software Install,2024-11-20,2024-11-21,24,41,In Progress,Low
+T614160,1405,Tech Support,2024-11-13,2024-11-14,24,26,In Progress,Low
+T366374,1288,Access Request,2024-11-23,2024-11-24,24,38,In Progress,High
+T883172,784,Software Install,2024-11-21,2024-11-23,48,51,In Progress,Low
+T784935,1244,System Bug,2024-02-01,2024-02-02,24,34,Completed,High
+T804399,1751,System Bug,2024-10-11,2024-10-12,24,30,In Progress,Medium
+T689990,1856,System Bug,2024-02-09,2024-02-12,72,72,In Progress,Low
+T650152,1789,System Bug,2024-07-12,2024-07-14,72,65,In Progress,High
+T916336,1635,Access Request,2024-09-18,2024-09-20,48,54,In Progress,Low
+T640374,190,Software Install,2024-12-21,2024-12-21,24,22,In Progress,Low
+T528933,243,System Bug,2024-01-24,2024-01-26,48,48,In Progress,High
+T136563,933,Tech Support,2024-07-21,2024-07-23,48,53,In Progress,Low
+T686079,1847,System Bug,2024-03-13,2024-03-15,48,55,In Progress,High
+T894392,998,System Bug,2024-10-13,2024-10-14,48,46,In Progress,Low
+T223756,996,System Bug,2024-03-06,2024-03-07,48,45,Escalated,Medium
+T447199,496,Software Install,2024-02-24,2024-02-25,48,47,In Progress,High
+T521670,1766,System Bug,2024-12-01,2024-12-04,72,92,In Progress,Low
+T512698,1537,Access Request,2024-08-19,2024-08-22,72,73,Completed,High
+T152660,226,Software Install,2024-06-03,2024-06-06,72,90,Completed,Low
+T848484,867,System Bug,2024-02-25,2024-02-27,48,58,In Progress,Low
+T803500,441,Access Request,2024-03-13,2024-03-16,72,72,In Progress,Low
+T291295,1866,Access Request,2024-05-23,2024-05-25,48,57,In Progress,High
+T826123,1922,Tech Support,2024-01-19,2024-01-21,48,67,Escalated,Medium
+T602431,1131,Access Request,2024-02-08,2024-02-10,48,52,In Progress,Low
+T277863,546,Software Install,2024-06-07,2024-06-09,48,68,In Progress,Low
+T227944,101,Software Install,2024-03-08,2024-03-10,48,63,In Progress,High
+T625863,80,System Bug,2024-10-28,2024-10-29,24,41,Escalated,Low
+T282339,1577,Software Install,2024-08-23,2024-08-25,48,58,In Progress,Medium
+T751059,97,Tech Support,2024-02-28,2024-03-01,72,67,In Progress,Low
+T518316,1472,Software Install,2024-09-09,2024-09-12,72,80,Escalated,Low
+T277698,888,Software Install,2024-04-28,2024-04-29,48,45,In Progress,Low
+T159404,1448,Tech Support,2024-04-16,2024-04-17,24,44,In Progress,Low
+T417714,1609,Software Install,2024-05-09,2024-05-12,72,85,In Progress,Medium
+T963638,315,System Bug,2024-09-03,2024-09-05,48,58,Escalated,Medium
+T656940,1022,Access Request,2024-11-19,2024-11-20,48,43,In Progress,Medium
+T423914,1976,Access Request,2024-01-02,2024-01-04,48,59,Completed,Low
+T640247,1198,Tech Support,2024-02-22,2024-02-23,48,47,Escalated,Medium
+T504558,763,Software Install,2024-09-03,2024-09-05,72,67,Escalated,Low
+T731456,132,Software Install,2024-07-09,2024-07-10,24,25,In Progress,Medium
+T620875,565,Access Request,2024-04-05,2024-04-07,48,52,Completed,Medium
+T335511,1783,Tech Support,2024-02-13,2024-02-15,72,67,In Progress,Low
+T318918,1868,Access Request,2024-05-03,2024-05-04,48,42,Escalated,Medium
+T687906,1892,Software Install,2024-05-18,2024-05-20,48,48,In Progress,Low
+T263079,1011,System Bug,2024-01-09,2024-01-12,72,81,In Progress,Medium
+T180216,1671,System Bug,2024-11-26,2024-11-27,48,46,Escalated,Low
+T787484,297,System Bug,2024-03-04,2024-03-04,24,15,In Progress,High
+T339904,1264,Tech Support,2024-08-04,2024-08-06,72,62,In Progress,Medium
+T507044,1834,System Bug,2024-09-15,2024-09-15,24,22,In Progress,Low
+T925708,1441,Software Install,2024-07-18,2024-07-18,24,22,Completed,Medium
+T399217,2051,Tech Support,2024-02-19,2024-02-19,24,20,Escalated,High
+T594271,1035,System Bug,2024-03-17,2024-03-19,72,69,In Progress,Low
+T276111,1412,Access Request,2024-06-14,2024-06-16,48,57,Escalated,High
+T968021,2034,Access Request,2024-10-20,2024-10-21,24,40,In Progress,High
+T599682,1614,Software Install,2024-04-05,2024-04-08,72,83,Escalated,Medium
+T974724,556,Software Install,2024-07-17,2024-07-18,24,26,Escalated,Low
+T167247,1783,Tech Support,2024-12-05,2024-12-08,72,74,In Progress,Low
+T599418,1601,Tech Support,2024-11-19,2024-11-20,48,39,Completed,Low
+T222382,833,Access Request,2024-07-14,2024-07-15,24,42,In Progress,High
+T906245,86,Access Request,2024-09-14,2024-09-16,48,58,Completed,Low
+T452156,969,System Bug,2024-06-17,2024-06-20,72,76,In Progress,Low
+T257637,1949,Tech Support,2024-08-02,2024-08-04,48,56,In Progress,Medium
+T423022,1900,Access Request,2024-10-21,2024-10-23,72,69,Escalated,Low
+T724191,848,System Bug,2024-10-23,2024-10-24,24,33,Completed,Low
+T912745,1934,System Bug,2024-09-26,2024-09-27,24,31,In Progress,Low
+T627459,733,System Bug,2024-05-10,2024-05-13,72,87,Escalated,Low
+T370670,701,Access Request,2024-08-17,2024-08-18,48,38,Completed,Low
+T838690,90,Tech Support,2024-01-12,2024-01-14,72,65,In Progress,Low
+T723839,1859,Software Install,2024-07-20,2024-07-22,48,59,In Progress,Low
+T181501,998,Access Request,2024-10-08,2024-10-09,24,37,Escalated,Medium
+T942021,1529,Access Request,2024-07-06,2024-07-09,72,82,In Progress,Medium
+T869910,1255,Tech Support,2024-09-01,2024-09-03,48,53,In Progress,Low
+T715281,1026,Access Request,2024-03-20,2024-03-21,24,40,Escalated,Low
+T896334,1434,Tech Support,2024-05-10,2024-05-13,72,86,In Progress,High
+T450246,28,System Bug,2024-08-02,2024-08-05,72,87,In Progress,Medium
+T404347,1970,Access Request,2024-10-26,2024-10-27,24,30,Escalated,Low
+T877360,972,System Bug,2024-11-23,2024-11-26,72,86,Completed,Low
+T575610,471,System Bug,2024-09-15,2024-09-16,48,43,Escalated,High
+T612760,1868,System Bug,2024-12-10,2024-12-10,24,18,Completed,High
+T198851,1677,Tech Support,2024-03-24,2024-03-27,72,91,In Progress,Low
+T665165,24,System Bug,2024-03-12,2024-03-14,48,49,In Progress,High
+T959234,1976,Software Install,2024-08-04,2024-08-07,72,72,In Progress,Low
+T309752,41,Software Install,2024-09-18,2024-09-20,48,68,In Progress,High
+T279162,939,Software Install,2024-02-02,2024-02-03,24,24,Escalated,Low
+T482876,1200,Access Request,2024-03-28,2024-03-29,48,43,Escalated,Low
+T781804,1073,Software Install,2024-07-16,2024-07-17,24,25,Completed,Medium
+T441371,1115,Tech Support,2024-12-24,2024-12-27,72,83,In Progress,Low
+T657947,2049,Software Install,2024-01-09,2024-01-11,72,63,In Progress,High
+T267072,2034,Access Request,2024-07-13,2024-07-14,48,46,In Progress,Low
+T837309,1071,System Bug,2024-05-11,2024-05-12,24,25,In Progress,Low
+T482022,1682,Access Request,2024-12-15,2024-12-17,72,67,Escalated,Low
+T987611,1421,System Bug,2024-02-25,2024-02-27,48,65,Completed,Low
+T360118,202,System Bug,2024-09-11,2024-09-13,48,62,In Progress,Low
+T683184,1655,Software Install,2024-02-22,2024-02-25,72,85,Escalated,Low
+T773991,1668,Access Request,2024-09-02,2024-09-04,72,65,Completed,Medium
+T159168,1397,System Bug,2024-10-05,2024-10-08,72,89,In Progress,Low
+T303098,247,System Bug,2024-11-12,2024-11-13,48,38,Completed,Low
+T562456,460,Tech Support,2024-10-22,2024-10-25,72,73,Completed,Low
+T575764,623,Software Install,2024-10-24,2024-10-25,24,38,In Progress,Low
+T652638,1911,Access Request,2024-09-25,2024-09-26,48,39,Escalated,Medium
+T345512,927,Tech Support,2024-01-16,2024-01-18,72,65,In Progress,Medium
+T772933,1608,System Bug,2024-12-18,2024-12-19,24,28,Completed,Low
+T473144,874,Tech Support,2024-12-24,2024-12-26,48,64,Escalated,Medium
+T595788,80,Access Request,2024-06-05,2024-06-07,48,49,In Progress,Medium
+T987306,1878,Access Request,2024-05-17,2024-05-18,48,41,In Progress,Low
+T515335,1783,Access Request,2024-09-26,2024-09-29,72,91,In Progress,High
+T512451,1193,Software Install,2024-06-04,2024-06-07,72,79,Completed,Low
+T840113,505,Tech Support,2024-05-03,2024-05-06,72,76,Escalated,Medium
+T489316,1363,Tech Support,2024-12-25,2024-12-27,48,60,In Progress,Low
+T901118,1430,System Bug,2024-11-28,2024-11-29,24,43,In Progress,Low
+T389022,872,Access Request,2024-05-12,2024-05-14,72,68,Completed,Medium
+T227497,1804,Access Request,2024-07-09,2024-07-11,48,55,In Progress,Low
+T444711,1766,Tech Support,2024-05-14,2024-05-16,72,68,In Progress,Medium
+T574782,1392,Tech Support,2024-09-27,2024-09-28,24,35,In Progress,Low
+T549546,1782,System Bug,2024-04-28,2024-04-29,48,38,Completed,Medium
+T680903,1826,System Bug,2024-06-01,2024-06-02,48,44,In Progress,Medium
+T838454,95,Software Install,2024-11-23,2024-11-24,24,38,In Progress,High
+T687657,1655,Software Install,2024-07-15,2024-07-17,48,54,Escalated,High
+T405052,342,Tech Support,2024-10-22,2024-10-24,72,65,Completed,Low
+T663260,442,Tech Support,2024-02-26,2024-02-27,48,43,Escalated,Medium
+T313782,1860,Access Request,2024-03-12,2024-03-14,48,58,In Progress,High
+T988596,338,Access Request,2024-08-15,2024-08-16,24,32,In Progress,Low
+T168005,1969,Tech Support,2024-07-17,2024-07-19,48,51,In Progress,High
+T482650,352,Tech Support,2024-11-17,2024-11-18,24,42,In Progress,High
+T275502,1224,Software Install,2024-09-10,2024-09-12,72,62,In Progress,Low
+T980805,1529,System Bug,2024-10-07,2024-10-10,72,72,In Progress,Low
+T209534,139,Access Request,2024-12-23,2024-12-26,72,84,In Progress,Medium
+T686643,852,Software Install,2024-08-18,2024-08-21,72,79,In Progress,Low
+T441228,1405,Tech Support,2024-05-12,2024-05-12,24,17,In Progress,Medium
+T856757,325,Tech Support,2024-03-12,2024-03-14,72,69,In Progress,High
+T509278,422,Software Install,2024-07-21,2024-07-23,48,67,In Progress,Low
+T171098,1689,Tech Support,2024-10-25,2024-10-26,24,41,Escalated,Low
+T673854,447,Software Install,2024-10-28,2024-10-30,72,69,Escalated,Low
+T842282,1340,Tech Support,2024-06-02,2024-06-05,72,72,Completed,High
+T619019,1195,Software Install,2024-04-26,2024-04-27,24,34,In Progress,High
+T499295,1193,System Bug,2024-09-08,2024-09-11,72,77,In Progress,Low
+T384959,1438,Software Install,2024-05-18,2024-05-21,72,82,Completed,Low
+T166053,367,Software Install,2024-12-18,2024-12-21,72,78,In Progress,Low
+T192140,1866,System Bug,2024-05-14,2024-05-17,72,76,In Progress,Low
+T928738,843,System Bug,2024-02-07,2024-02-09,48,66,In Progress,High
+T704334,245,Software Install,2024-10-28,2024-10-31,72,81,Escalated,High
+T618791,1592,Access Request,2024-04-21,2024-04-22,48,44,In Progress,Low
+T976881,1360,Software Install,2024-11-28,2024-11-28,24,15,Completed,Medium
+T775771,817,Tech Support,2024-05-04,2024-05-06,48,67,Escalated,Low
+T906882,1161,Tech Support,2024-11-09,2024-11-09,24,23,Completed,Low
+T342147,41,System Bug,2024-08-22,2024-08-23,24,34,Completed,Medium
+T541322,1216,Access Request,2024-10-08,2024-10-10,48,64,Completed,Low
+T875506,1533,Access Request,2024-04-19,2024-04-20,24,36,Completed,Low
+T540261,1606,Access Request,2024-06-02,2024-06-02,24,21,In Progress,High
+T523822,165,System Bug,2024-05-25,2024-05-28,72,81,In Progress,High
+T219907,1966,Software Install,2024-11-24,2024-11-26,72,68,In Progress,Low
+T164023,1433,Software Install,2024-01-02,2024-01-05,72,81,In Progress,High
+T452963,1911,Access Request,2024-10-08,2024-10-11,72,72,Escalated,Low
+T423203,433,Tech Support,2024-08-15,2024-08-17,48,48,In Progress,Low
+T209242,1594,Access Request,2024-02-03,2024-02-05,48,53,In Progress,Medium
+T407673,920,Tech Support,2024-07-16,2024-07-18,48,59,In Progress,Low
+T858212,1513,Tech Support,2024-04-13,2024-04-14,24,30,Completed,Low
+T742557,1195,Software Install,2024-05-03,2024-05-05,48,48,In Progress,Medium
+T209604,546,Software Install,2024-12-26,2024-12-27,48,47,In Progress,Low
+T169561,1529,Access Request,2024-09-14,2024-09-16,48,48,Completed,Low
+T566366,256,Access Request,2024-11-02,2024-11-04,48,64,In Progress,Low
+T444363,241,Access Request,2024-06-17,2024-06-18,24,36,In Progress,Low
+T386875,639,Access Request,2024-02-22,2024-02-24,48,52,Escalated,Medium
+T712625,429,System Bug,2024-10-10,2024-10-13,72,92,Completed,Medium
+T215565,1011,Software Install,2024-12-28,2024-12-29,24,27,In Progress,Medium
+T820039,1952,Software Install,2024-11-16,2024-11-17,24,30,In Progress,Low
+T713283,867,Software Install,2024-01-05,2024-01-08,72,78,Escalated,Low
+T555016,1191,Tech Support,2024-05-15,2024-05-16,24,41,Completed,Low
+T400826,65,Software Install,2024-08-22,2024-08-25,72,82,In Progress,Medium
+T270444,1409,Software Install,2024-03-17,2024-03-18,24,37,In Progress,High
+T532107,1118,Access Request,2024-03-05,2024-03-06,24,42,In Progress,High
+T538562,1106,Tech Support,2024-12-25,2024-12-26,24,27,In Progress,High
+T526712,223,Software Install,2024-02-25,2024-02-27,48,51,In Progress,Medium
+T739894,2003,System Bug,2024-12-24,2024-12-26,48,60,In Progress,Medium
+T276840,352,Tech Support,2024-11-04,2024-11-07,72,76,Completed,Low
+T655629,351,Tech Support,2024-02-19,2024-02-21,72,66,In Progress,Low
+T200563,2068,System Bug,2024-08-28,2024-08-30,48,51,In Progress,High
+T142273,1033,Tech Support,2024-02-21,2024-02-24,72,83,In Progress,Low
+T797199,271,Access Request,2024-09-21,2024-09-23,48,51,In Progress,Medium
+T322347,1068,Tech Support,2024-11-01,2024-11-01,24,21,Escalated,High
+T462086,2051,System Bug,2024-12-25,2024-12-27,48,54,Completed,Low
+T853590,520,Tech Support,2024-06-20,2024-06-22,48,68,In Progress,Medium
+T665183,75,Software Install,2024-05-19,2024-05-21,48,59,Completed,Medium
+T901849,2064,Software Install,2024-05-27,2024-05-28,48,38,Completed,Low
+T553183,1369,System Bug,2024-07-25,2024-07-27,48,55,In Progress,Low
+T882182,522,System Bug,2024-05-25,2024-05-27,72,65,Escalated,High
+T658828,1081,System Bug,2024-05-18,2024-05-21,72,73,Completed,Low
+T272258,999,Tech Support,2024-07-02,2024-07-04,48,60,In Progress,High
+T649056,227,System Bug,2024-10-07,2024-10-10,72,73,In Progress,Low
+T552570,1903,System Bug,2024-09-28,2024-09-29,24,42,In Progress,High
+T505017,405,System Bug,2024-04-11,2024-04-13,48,57,In Progress,Low
+T736226,1638,System Bug,2024-04-02,2024-04-03,24,40,In Progress,Medium
+T234047,468,System Bug,2024-12-14,2024-12-15,48,47,Completed,Low
+T951043,2012,Access Request,2024-06-16,2024-06-16,24,21,Escalated,Medium
+T440270,1303,Access Request,2024-06-03,2024-06-04,48,41,Escalated,Low
+T749695,1120,Tech Support,2024-06-27,2024-06-28,24,41,Escalated,Medium
+T297248,1346,System Bug,2024-12-14,2024-12-14,24,23,In Progress,Low
+T951583,1046,System Bug,2024-02-17,2024-02-18,48,38,Completed,Low
+T955248,1460,Tech Support,2024-05-25,2024-05-26,24,39,In Progress,High
+T640117,1216,Software Install,2024-05-26,2024-05-27,24,34,In Progress,Low
+T542933,1922,Tech Support,2024-04-18,2024-04-18,24,16,Completed,High
+T499779,757,Tech Support,2024-09-25,2024-09-26,24,28,In Progress,Low
+T270814,393,Tech Support,2024-09-19,2024-09-21,48,66,Escalated,Low
+T907311,1030,Software Install,2024-10-09,2024-10-10,24,25,In Progress,Low
+T614582,159,Software Install,2024-01-23,2024-01-24,24,39,In Progress,Low
+T620087,655,Software Install,2024-03-15,2024-03-18,72,81,Escalated,Medium
+T439383,341,Tech Support,2024-05-19,2024-05-20,48,39,In Progress,High
+T810847,1185,Tech Support,2024-10-19,2024-10-20,48,46,In Progress,Medium
+T363469,194,Tech Support,2024-04-20,2024-04-21,24,37,In Progress,Medium
+T627502,1753,System Bug,2024-07-01,2024-07-04,72,80,In Progress,Low
+T145257,1389,Access Request,2024-10-21,2024-10-23,72,63,Completed,Medium
+T146642,1552,Tech Support,2024-07-23,2024-07-26,72,72,Completed,Low
+T997262,1334,Access Request,2024-08-10,2024-08-12,72,62,In Progress,Low
+T497050,977,Tech Support,2024-08-18,2024-08-19,48,47,In Progress,High
+T361840,1136,Access Request,2024-11-15,2024-11-17,48,48,Escalated,High
+T702931,574,Software Install,2024-09-05,2024-09-08,72,73,Completed,Low
+T653800,1270,Tech Support,2024-10-07,2024-10-09,48,59,In Progress,Low
+T467235,881,Software Install,2024-10-04,2024-10-06,48,66,In Progress,High
+T748338,815,Software Install,2024-05-27,2024-05-29,72,62,Completed,Low
+T725860,75,System Bug,2024-10-24,2024-10-26,48,68,In Progress,Low
+T498135,451,Tech Support,2024-08-27,2024-08-28,24,39,Completed,Low
+T224497,1028,Software Install,2024-05-12,2024-05-13,24,35,In Progress,Low
+T793221,501,System Bug,2024-01-28,2024-01-29,48,46,In Progress,Medium
+T428205,198,Tech Support,2024-04-09,2024-04-10,24,24,In Progress,Medium
+T256516,593,Software Install,2024-11-27,2024-11-30,72,75,Escalated,Low
+T585679,1804,Tech Support,2024-11-22,2024-11-25,72,79,In Progress,Low
+T146626,686,Access Request,2024-10-13,2024-10-16,72,73,In Progress,Medium
+T625180,717,Access Request,2024-07-26,2024-07-29,72,83,Completed,Low
+T483031,1344,Software Install,2024-09-21,2024-09-22,24,37,In Progress,Low
+T785023,1520,Access Request,2024-03-23,2024-03-26,72,78,Completed,Medium
+T615370,1892,System Bug,2024-05-08,2024-05-11,72,75,In Progress,Medium
+T360658,143,Tech Support,2024-07-02,2024-07-02,24,19,Completed,Low
+T977059,1813,Access Request,2024-09-25,2024-09-26,24,43,In Progress,Low
+T316768,1775,System Bug,2024-10-22,2024-10-24,72,65,Escalated,Low
+T624104,259,Software Install,2024-12-18,2024-12-20,48,64,In Progress,High
+T218531,1937,System Bug,2024-01-05,2024-01-06,24,35,In Progress,Low
+T197190,1028,Software Install,2024-04-06,2024-04-08,72,67,In Progress,Low
+T755863,1301,Software Install,2024-04-13,2024-04-16,72,91,In Progress,Medium
+T906032,817,Software Install,2024-08-04,2024-08-07,72,74,In Progress,Low
+T482523,1955,Access Request,2024-11-28,2024-11-30,72,63,Escalated,Low
+T901191,1976,Software Install,2024-12-01,2024-12-02,24,40,Escalated,Medium
+T536818,2025,Software Install,2024-10-15,2024-10-18,72,74,In Progress,Low
+T696639,242,Tech Support,2024-12-16,2024-12-18,48,64,In Progress,Low
+T415460,1217,Access Request,2024-08-08,2024-08-10,48,63,Completed,Medium
+T142129,1221,Access Request,2024-05-17,2024-05-18,24,37,In Progress,Medium
+T769368,1659,Tech Support,2024-02-03,2024-02-05,48,56,In Progress,High
+T605303,1301,Software Install,2024-01-27,2024-01-30,72,78,Escalated,Low
+T732137,1677,System Bug,2024-06-04,2024-06-06,72,70,Escalated,Medium
+T313611,1118,Software Install,2024-05-09,2024-05-12,72,83,Completed,Medium
+T426854,7,Access Request,2024-08-19,2024-08-22,72,76,In Progress,High
+T204485,1018,Tech Support,2024-03-21,2024-03-22,24,38,Escalated,Low
+T590421,1374,Tech Support,2024-06-02,2024-06-02,24,23,Completed,High
+T320092,902,Access Request,2024-06-22,2024-06-23,24,41,Completed,Low
+T124799,1340,System Bug,2024-06-25,2024-06-28,72,90,In Progress,Medium
+T345911,1619,Software Install,2024-11-15,2024-11-16,24,35,Completed,Medium
+T372525,1028,Tech Support,2024-12-06,2024-12-08,72,65,Completed,Medium
+T224406,1369,System Bug,2024-08-02,2024-08-04,72,67,In Progress,Low
+T382902,1504,Tech Support,2024-10-05,2024-10-06,24,34,In Progress,Low
+T494277,586,Access Request,2024-08-27,2024-08-28,48,39,In Progress,Medium
+T313400,1116,System Bug,2024-08-25,2024-08-25,24,22,Completed,Medium
+T862931,1704,Access Request,2024-03-02,2024-03-03,24,42,Escalated,Medium
+T181367,16,Access Request,2024-08-03,2024-08-04,48,43,Completed,Low
+T268579,913,Software Install,2024-05-12,2024-05-14,48,60,Completed,High
+T146622,1092,Software Install,2024-01-14,2024-01-16,48,54,In Progress,Low
+T973440,1234,Access Request,2024-04-22,2024-04-23,48,39,In Progress,High
+T624080,1558,Software Install,2024-06-26,2024-06-27,24,27,In Progress,Low
+T974082,335,System Bug,2024-08-16,2024-08-17,24,35,In Progress,Low
+T800783,1883,Software Install,2024-02-13,2024-02-15,48,61,Escalated,Medium
+T784036,1545,Tech Support,2024-10-19,2024-10-19,24,17,In Progress,Medium
+T310448,875,Tech Support,2024-07-08,2024-07-10,48,49,In Progress,Low
+T732101,1762,System Bug,2024-06-12,2024-06-15,72,84,In Progress,Low
+T311297,2034,Access Request,2024-04-03,2024-04-04,24,38,In Progress,Medium
+T719354,1764,Access Request,2024-10-22,2024-10-22,24,17,In Progress,Medium
+T331224,1430,Access Request,2024-06-26,2024-06-29,72,79,In Progress,Low
+T392760,799,Tech Support,2024-08-02,2024-08-05,72,78,In Progress,Medium
+T986776,335,Access Request,2024-11-01,2024-11-01,24,16,In Progress,Low
+T931983,15,Software Install,2024-11-21,2024-11-22,24,35,In Progress,Low
+T701661,1638,System Bug,2024-10-25,2024-10-26,24,38,Completed,Low
+T732373,1590,System Bug,2024-04-17,2024-04-17,24,14,In Progress,Low
+T835166,1006,Software Install,2024-12-20,2024-12-22,72,69,Escalated,Low
+T546048,40,System Bug,2024-07-10,2024-07-11,24,33,Completed,Low
+T397620,1868,System Bug,2024-02-21,2024-02-23,48,49,In Progress,High
+T273771,464,Tech Support,2024-09-21,2024-09-23,48,51,Escalated,Low
+T605986,913,Tech Support,2024-02-09,2024-02-09,24,18,In Progress,Low
+T358727,1094,Access Request,2024-06-04,2024-06-06,72,67,Completed,High
+T101219,2061,Software Install,2024-02-27,2024-02-28,24,44,In Progress,Medium
+T231594,97,System Bug,2024-09-20,2024-09-23,72,91,In Progress,Low
+T353494,334,Software Install,2024-08-27,2024-08-29,48,56,In Progress,Low
+T957229,1394,Access Request,2024-10-18,2024-10-18,24,23,In Progress,High
+T818866,1079,Tech Support,2024-04-03,2024-04-05,48,54,Escalated,Low
+T179839,238,Tech Support,2024-04-15,2024-04-16,24,42,In Progress,Low
+T508888,1839,Software Install,2024-02-02,2024-02-02,24,14,In Progress,Medium
+T965296,812,Tech Support,2024-10-24,2024-10-25,48,42,In Progress,Medium
+T582857,1005,Access Request,2024-03-08,2024-03-09,24,29,Escalated,Low
+T562999,933,System Bug,2024-09-11,2024-09-13,48,66,In Progress,Medium
+T427923,1073,Tech Support,2024-09-22,2024-09-25,72,72,In Progress,Low
+T789027,1648,System Bug,2024-12-28,2024-12-31,72,84,Completed,High
+T202691,2022,Software Install,2024-02-01,2024-02-02,24,33,In Progress,Low
+T851662,30,System Bug,2024-05-27,2024-05-30,72,77,Completed,Medium
+T161728,208,System Bug,2024-01-05,2024-01-07,72,71,In Progress,Medium
+T227015,905,Software Install,2024-12-13,2024-12-14,48,42,In Progress,High
+T377284,1215,Software Install,2024-07-10,2024-07-10,24,18,Escalated,Medium
+T586692,1402,Access Request,2024-10-14,2024-10-15,48,47,Completed,Low
+T122865,412,System Bug,2024-11-07,2024-11-09,72,62,In Progress,Low
+T898162,119,System Bug,2024-12-08,2024-12-10,48,54,In Progress,Medium
+T753552,343,System Bug,2024-05-12,2024-05-13,48,39,In Progress,Medium
+T384752,28,System Bug,2024-05-06,2024-05-08,48,66,Completed,Low
+T797478,730,Tech Support,2024-02-13,2024-02-15,48,63,In Progress,Low
+T494246,817,Software Install,2024-06-11,2024-06-13,48,64,In Progress,Low
+T262648,328,Software Install,2024-05-19,2024-05-20,24,44,In Progress,Low
+T449053,1509,System Bug,2024-07-17,2024-07-20,72,81,In Progress,Low
+T776060,1228,Access Request,2024-12-23,2024-12-26,72,74,In Progress,Medium
+T397077,96,System Bug,2024-03-11,2024-03-12,24,43,In Progress,Low
+T324344,815,Software Install,2024-08-21,2024-08-22,24,28,Completed,High
+T381972,856,Access Request,2024-03-18,2024-03-19,48,46,In Progress,Medium
+T778992,1092,Access Request,2024-09-23,2024-09-23,24,17,In Progress,Low
+T988500,165,Tech Support,2024-12-28,2024-12-29,48,38,In Progress,Low
+T716993,1617,Tech Support,2024-05-02,2024-05-05,72,83,Completed,Low
+T145045,1278,Software Install,2024-11-04,2024-11-06,72,69,In Progress,Low
+T145024,1460,Tech Support,2024-01-26,2024-01-27,48,38,Completed,High
+T508588,834,Tech Support,2024-12-16,2024-12-19,72,75,In Progress,Low
+T509930,544,Software Install,2024-03-27,2024-03-29,72,62,Completed,Medium
+T914312,486,Tech Support,2024-08-02,2024-08-04,48,52,In Progress,High
+T723277,1251,Software Install,2024-04-10,2024-04-11,24,28,In Progress,Low
+T713019,1936,Access Request,2024-01-15,2024-01-15,24,17,In Progress,Low
+T500501,1599,System Bug,2024-10-05,2024-10-08,72,81,Completed,Medium
+T213981,316,System Bug,2024-07-14,2024-07-17,72,74,In Progress,Medium
+T561359,1191,Software Install,2024-11-28,2024-11-28,24,22,In Progress,Medium
+T910770,1821,Access Request,2024-01-08,2024-01-09,48,39,Completed,Low
+T462239,346,Tech Support,2024-04-27,2024-04-30,72,83,In Progress,Low
+T183680,1545,Software Install,2024-03-18,2024-03-19,24,25,In Progress,Medium
+T808809,727,System Bug,2024-09-14,2024-09-16,48,64,In Progress,Low
+T974637,1694,System Bug,2024-03-09,2024-03-11,48,65,Escalated,Low
+T159773,1751,Tech Support,2024-10-16,2024-10-18,72,67,Escalated,High
+T174556,76,Tech Support,2024-12-26,2024-12-29,72,91,Escalated,Low
+T242640,107,Access Request,2024-01-17,2024-01-19,48,52,Completed,Medium
+T743879,1786,System Bug,2024-07-11,2024-07-12,24,32,Completed,Medium
+T509073,1956,Software Install,2024-02-21,2024-02-22,24,43,In Progress,High
+T678310,1569,Software Install,2024-06-05,2024-06-05,24,16,Escalated,Medium
+T413345,1106,System Bug,2024-01-17,2024-01-17,24,21,In Progress,Low
+T912065,1615,Access Request,2024-06-27,2024-06-29,48,60,Completed,High
+T837010,501,Access Request,2024-11-04,2024-11-04,24,17,In Progress,Low
+T745327,1053,Software Install,2024-09-24,2024-09-26,72,67,Completed,High
+T436221,1358,Tech Support,2024-01-14,2024-01-15,48,43,In Progress,Low
+T946781,2017,Tech Support,2024-04-08,2024-04-11,72,76,Completed,Low
+T863354,1084,Access Request,2024-06-16,2024-06-18,48,54,In Progress,Low
+T785522,394,Software Install,2024-12-05,2024-12-06,24,32,In Progress,High
+T727262,1551,Software Install,2024-08-10,2024-08-13,72,76,Escalated,Medium
+T567861,468,Access Request,2024-08-09,2024-08-10,24,27,In Progress,Low
+T344312,957,Tech Support,2024-03-15,2024-03-16,24,24,Escalated,Low
+T778679,396,Access Request,2024-04-19,2024-04-21,48,67,Escalated,Medium
+T568278,1206,Software Install,2024-02-12,2024-02-13,48,47,In Progress,Low
+T458297,1334,Tech Support,2024-11-09,2024-11-12,72,78,Escalated,Medium
+T289868,1250,Software Install,2024-03-14,2024-03-15,48,43,In Progress,Low
+T482800,1275,Software Install,2024-04-14,2024-04-17,72,88,Escalated,Medium
+T989055,84,Tech Support,2024-05-01,2024-05-02,48,41,In Progress,Low
+T887573,442,Software Install,2024-09-09,2024-09-09,24,22,In Progress,Medium
+T566313,76,System Bug,2024-07-09,2024-07-10,24,36,In Progress,Low
+T532339,385,Tech Support,2024-11-01,2024-11-03,72,68,In Progress,Low
+T456406,1564,System Bug,2024-06-15,2024-06-16,48,44,Escalated,Low
+T846412,662,Tech Support,2024-01-01,2024-01-04,72,90,In Progress,High
+T130510,1755,Tech Support,2024-10-28,2024-10-31,72,86,In Progress,Medium
+T692378,249,Software Install,2024-01-05,2024-01-07,72,66,In Progress,Medium
+T216418,41,Tech Support,2024-05-25,2024-05-26,24,42,In Progress,Low
+T409578,1373,Tech Support,2024-01-28,2024-01-30,48,62,In Progress,Low
+T583991,1501,Access Request,2024-06-12,2024-06-15,72,83,In Progress,Low
+T298475,1888,Tech Support,2024-04-27,2024-04-29,48,64,In Progress,Low
+T615858,465,System Bug,2024-10-12,2024-10-14,48,68,In Progress,High
+T873223,1004,Tech Support,2024-01-01,2024-01-02,24,27,Completed,Low
+T189891,1025,Tech Support,2024-04-18,2024-04-19,24,31,In Progress,Medium
+T177105,1030,Access Request,2024-11-22,2024-11-22,24,14,Completed,High
+T357273,657,Access Request,2024-06-23,2024-06-24,48,39,In Progress,Low
+T402448,838,Software Install,2024-08-19,2024-08-20,24,31,In Progress,Low
+T635365,1409,Tech Support,2024-06-02,2024-06-04,48,56,In Progress,Medium
+T377124,88,Access Request,2024-12-25,2024-12-27,48,50,Completed,Low
+T681937,21,Access Request,2024-02-21,2024-02-23,48,53,In Progress,Low
+T766956,1103,Access Request,2024-04-27,2024-04-30,72,92,In Progress,Low
+T734164,1252,Tech Support,2024-01-05,2024-01-07,48,49,Completed,Medium
+T889839,1655,Access Request,2024-05-11,2024-05-14,72,87,Completed,Low
+T545773,1449,System Bug,2024-04-13,2024-04-15,48,61,In Progress,Low
+T960589,1108,System Bug,2024-09-25,2024-09-25,24,18,Escalated,Low
