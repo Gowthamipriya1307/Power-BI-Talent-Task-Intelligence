@@ -1,6 +1,10 @@
 
 # 🧠 Talent & Task Intelligence Dashboard (Power BI)
 
+
+🎥 [Watch the Dashboard Demo (2-min walkthrough)](https://drive.google.com/file/d/1iS848qV88tKRu5bnePINomX3CJxkk1pG/view)
+
+
 This end-to-end Power BI solution offers strategic insights into workforce attrition risk and task performance across enabling functions. It combines advanced DAX, data modeling, Python-driven synthetic data generation, and Row-Level Security (RLS) to demonstrate enterprise-grade dashboarding and governance capabilities — tailored to roles like Talent Analytics at Accenture.
 
 ---
