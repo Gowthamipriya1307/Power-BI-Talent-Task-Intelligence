@@ -1,5 +1,5 @@
 
-# 🧠 Talent & Task Intelligence Dashboard (Power BI)
+# 🧠 Talent & Task Intelligence Dashboard: Performance, Risk & Retention Analysis (Power BI)
 
 
 🎥 [Watch the Dashboard Demo (2-min walkthrough)](https://drive.google.com/file/d/1iS848qV88tKRu5bnePINomX3CJxkk1pG/view)
